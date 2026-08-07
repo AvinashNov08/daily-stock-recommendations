@@ -3,22 +3,30 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Performance Archive · Daily Stock Recommendations</title>
+  <title>Recommendation Archive · Trading Assistant</title>
   <link rel="stylesheet" href="../assets/styles.css" />
 </head>
 <body>
   <div class="page">
     <nav class='top-nav' aria-label='Site'><a class='nav-btn' href='../index.html'>Home</a><a class='nav-btn' href='index.html'>Archive</a></nav>
+    
+    <nav class="sticky-nav" aria-label="Page">
+      <a href="../index.html#picks">Today's Picks</a>
+      <a href="../index.html#archive">Recommendation Archive</a>
+      <a href="../index.html#about">About</a>
+      <a href="../index.html#disclaimer">Disclaimer</a>
+    </nav>
+
     <header class="hero">
       <p class="eyebrow">Trading Assistant</p>
-      <h1>Performance Archive</h1>
+      <h1>Recommendation Archive</h1>
       <p class="panel-note">
-        Public paper-trading outcomes for each published day.
-        Untracked means no matching paper position for that recommendation — never invented.
+        Published recommendation days and paper outcomes.
+        Untracked means no matching paper position — never invented.
       </p>
     </header>
-    <section class="panel">
-      <h2>History</h2>
+    <section class="panel" id="archive">
+      <h2>Days</h2>
       <div class="table-wrap archive-wrap">
         <table class="rec-table archive-table">
           <thead>
@@ -33,17 +41,29 @@
             </tr>
           </thead>
           <tbody>
-            <tr><td><a href='2026-08-07.html'>August 7, 2026</a></td><td>7</td><td>2</td><td>0</td><td>0</td><td>0</td><td>5</td></tr>
+            <tr><td><a href='2026-08-07.html'>Fri 07</a><div class='hist-meta'>August 2026</div></td><td>7</td><td>2</td><td>0</td><td>0</td><td>0</td><td>5</td></tr>
           </tbody>
         </table>
       </div>
     </section>
-    <footer class="disclaimer">
-      <p>
+    <section class="panel" id="about">
+      <h2>About</h2>
+      <p class="panel-note">
+        Daily Recommendation Center publishes automation recommendations and their outcomes only.
+      </p>
+    </section>
+    
+    <footer class="site-footer" id="disclaimer">
+      <p class="footer-kicker">Generated automatically</p>
+      <p><strong>Trading Assistant</strong> · publishing-001.d1</p>
+      <p>Market Data Date · 2026-08-07</p>
+      <p>Last Updated · 2026-08-07 23:46 IST</p>
+      <p class="disclaimer">
         These are paper / research recommendations produced by an automated laboratory system.
         They are <strong>not</strong> investment advice and do not execute brokerage orders.
       </p>
     </footer>
+
   </div>
 </body>
 </html>

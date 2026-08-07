@@ -9,57 +9,71 @@
 <body>
   <div class="page">
     <nav class='top-nav' aria-label='Site'><a class='nav-btn' href='../index.html'>Home</a><a class='nav-btn' href='index.html'>Archive</a></nav>
+    
+    <nav class="sticky-nav" aria-label="Page">
+      <a href="../index.html#picks">Today's Picks</a>
+      <a href="../index.html#archive">Recommendation Archive</a>
+      <a href="../index.html#about">About</a>
+      <a href="../index.html#disclaimer">Disclaimer</a>
+    </nav>
+
     <header class="hero">
       <p class='eyebrow'>Trading Assistant · Archive</p>
 <h1>August 7, 2026</h1>
 
-      <div class="stat-grid">
-        <div class="stat">
-          <span class="stat-label">Market</span>
+      
+      <div class="status-banner" role="status">
+        <div class="status-item">
+          <span class="status-label">Market</span>
           <span class="badge badge-sideways">SIDEWAYS</span>
         </div>
-        <div class="stat">
-          <span class="stat-label">Candidates</span>
-          <span class="stat-value">8</span>
+        <div class="status-item">
+          <span class="status-label">Candidates Scanned</span>
+          <span class="status-value">8</span>
         </div>
+        <div class="status-item">
+          <span class="status-label">Recommended</span>
+          <span class="status-value">7</span>
+        </div>
+        <div class="status-item">
+          <span class="status-label">Generated</span>
+          <span class="status-value status-generated">2026-08-07 23:46 IST</span>
+        </div>
+      </div>
+
+    </header>
+    
+    <section class="panel grade-summary" id="grade-summary">
+      <h2>Recommendation Summary</h2>
+      <div class="stat-grid grade-grid">
         <div class="stat">
-          <span class="stat-label">Recommended</span>
+          <span class="stat-label">Recommendations</span>
           <span class="stat-value">7</span>
         </div>
         <div class="stat">
-          <span class="stat-label">Rejected</span>
+          <span class="stat-label">A Grade</span>
+          <span class="stat-value">0</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">B Grade</span>
           <span class="stat-value">1</span>
         </div>
-      </div>
-      <div class="stat-grid outcome-stats">
         <div class="stat">
-          <span class="stat-label">Open</span>
-          <span class="stat-value">2</span>
-        </div>
-        <div class="stat">
-          <span class="stat-label">Target Hit</span>
-          <span class="stat-value">0</span>
-        </div>
-        <div class="stat">
-          <span class="stat-label">Stop</span>
-          <span class="stat-value">0</span>
-        </div>
-        <div class="stat">
-          <span class="stat-label">Untracked</span>
-          <span class="stat-value">5</span>
+          <span class="stat-label">C Grade</span>
+          <span class="stat-value">6</span>
         </div>
       </div>
-    </header>
+    </section>
 
-    <section class="panel">
+    <section class="panel" id="picks">
       <h2>Recommendations</h2>
       <p class='panel-note'>Outcomes as of 2026-08-07 (paper portfolio). Untracked = no matching position for that day.</p>
       <div class="table-wrap">
         <table class="rec-table">
           <thead>
             <tr>
-              <th>Symbol</th>
               <th>Grade</th>
+              <th>Symbol</th>
               <th>Confidence</th>
               <th>Entry</th>
               <th>Stop</th>
@@ -69,27 +83,26 @@
             </tr>
           </thead>
           <tbody>
-            <tr><td class='symbol'>AUROPHARMA</td><td><span class='badge badge-grade-b'>Grade B</span></td><td><span class='badge badge-conf-med'>Medium</span></td><td><span class='badge badge-buy'>BUY</span> <span class='price'>₹1,658.00</span></td><td><span class='badge badge-stop'>STOP</span> <span class='price'>₹1,592.92</span></td><td><span class='badge badge-target'>TARGET</span> <span class='price'>₹1,788.15</span></td><td class='outcome'><span class='badge badge-outcome-untracked'>Untracked</span></td><td class='reason'>Most signals agree positively; pullback not yet confirming</td></tr>
-<tr><td class='symbol'>BAJAJ-AUTO</td><td><span class='badge badge-grade-c'>Grade C</span></td><td><span class='badge badge-conf-low'>Low</span></td><td><span class='badge badge-buy'>BUY</span> <span class='price'>₹11,662.00</span></td><td><span class='badge badge-stop'>STOP</span> <span class='price'>₹11,293.43</span></td><td><span class='badge badge-target'>TARGET</span> <span class='price'>₹12,399.14</span></td><td class='outcome'><span class='badge badge-outcome-untracked'>Untracked</span></td><td class='reason'>Mixed signals — several checks not confirming</td></tr>
-<tr><td class='symbol'>CIPLA</td><td><span class='badge badge-grade-c'>Grade C</span></td><td><span class='badge badge-conf-low'>Low</span></td><td><span class='badge badge-buy'>BUY</span> <span class='price'>₹1,463.80</span></td><td><span class='badge badge-stop'>STOP</span> <span class='price'>₹1,420.50</span></td><td><span class='badge badge-target'>TARGET</span> <span class='price'>₹1,550.41</span></td><td class='outcome'><span class='badge badge-outcome-untracked'>Untracked</span></td><td class='reason'>Mixed signals — several checks not confirming</td></tr>
-<tr><td class='symbol'>EICHERMOT</td><td><span class='badge badge-grade-c'>Grade C</span></td><td><span class='badge badge-conf-low'>Low</span></td><td><span class='badge badge-buy'>BUY</span> <span class='price'>₹8,020.00</span></td><td><span class='badge badge-stop'>STOP</span> <span class='price'>₹7,781.23</span></td><td><span class='badge badge-target'>TARGET</span> <span class='price'>₹8,497.54</span></td><td class='outcome'><span class='badge badge-outcome-untracked'>Untracked</span></td><td class='reason'>Mixed signals — several checks not confirming</td></tr>
-<tr><td class='symbol'>JSWSTEEL</td><td><span class='badge badge-grade-c'>Grade C</span></td><td><span class='badge badge-conf-low'>Low</span></td><td><span class='badge badge-buy'>BUY</span> <span class='price'>₹1,299.50</span></td><td><span class='badge badge-stop'>STOP</span> <span class='price'>₹1,259.46</span></td><td><span class='badge badge-target'>TARGET</span> <span class='price'>₹1,379.58</span></td><td class='outcome'><span class='badge badge-outcome-open'>Pending entry</span></td><td class='reason'>Mixed signals — several checks not confirming</td></tr>
-<tr><td class='symbol'>GODREJPROP</td><td><span class='badge badge-grade-c'>Grade C</span></td><td><span class='badge badge-conf-low'>Low</span></td><td><span class='badge badge-buy'>BUY</span> <span class='price'>₹2,070.00</span></td><td><span class='badge badge-stop'>STOP</span> <span class='price'>₹1,972.49</span></td><td><span class='badge badge-target'>TARGET</span> <span class='price'>₹2,265.02</span></td><td class='outcome'><span class='badge badge-outcome-open'>Pending entry</span></td><td class='reason'>Mixed signals — several checks not confirming</td></tr>
-<tr><td class='symbol'>PRESTIGE</td><td><span class='badge badge-grade-c'>Grade C</span></td><td><span class='badge badge-conf-low'>Low</span></td><td><span class='badge badge-buy'>BUY</span> <span class='price'>₹1,584.80</span></td><td><span class='badge badge-stop'>STOP</span> <span class='price'>₹1,565.80</span></td><td><span class='badge badge-target'>TARGET</span> <span class='price'>₹1,622.80</span></td><td class='outcome'><span class='badge badge-outcome-untracked'>Untracked</span></td><td class='reason'>Mixed signals — several checks not confirming</td></tr>
+            <tr><td class='grade-cell'><span class='badge badge-grade-b grade-anchor'>B</span></td><td class='symbol'>AUROPHARMA</td><td><span class='badge badge-conf-med'>Medium</span></td><td><span class='level-label'>Entry</span> <span class='price'>₹1,658.00</span></td><td><span class='level-label'>Stop</span> <span class='price'>₹1,592.92</span></td><td><span class='level-label'>Target</span> <span class='price'>₹1,788.15</span></td><td class='outcome'><span class='badge badge-outcome-untracked'>Untracked</span></td><td class='reason'><ul class='reason-bullets'><li>Trend continuation</li><li>Pullback not yet confirming</li></ul></td></tr>
+<tr><td class='grade-cell'><span class='badge badge-grade-c grade-anchor'>C</span></td><td class='symbol'>BAJAJ-AUTO</td><td><span class='badge badge-conf-low'>Low</span></td><td><span class='level-label'>Entry</span> <span class='price'>₹11,662.00</span></td><td><span class='level-label'>Stop</span> <span class='price'>₹11,293.43</span></td><td><span class='level-label'>Target</span> <span class='price'>₹12,399.14</span></td><td class='outcome'><span class='badge badge-outcome-untracked'>Untracked</span></td><td class='reason'><ul class='reason-bullets'><li>Mixed confirmation</li><li>Setup not fully aligned</li></ul></td></tr>
+<tr><td class='grade-cell'><span class='badge badge-grade-c grade-anchor'>C</span></td><td class='symbol'>CIPLA</td><td><span class='badge badge-conf-low'>Low</span></td><td><span class='level-label'>Entry</span> <span class='price'>₹1,463.80</span></td><td><span class='level-label'>Stop</span> <span class='price'>₹1,420.50</span></td><td><span class='level-label'>Target</span> <span class='price'>₹1,550.41</span></td><td class='outcome'><span class='badge badge-outcome-untracked'>Untracked</span></td><td class='reason'><ul class='reason-bullets'><li>Mixed confirmation</li><li>Setup not fully aligned</li></ul></td></tr>
+<tr><td class='grade-cell'><span class='badge badge-grade-c grade-anchor'>C</span></td><td class='symbol'>EICHERMOT</td><td><span class='badge badge-conf-low'>Low</span></td><td><span class='level-label'>Entry</span> <span class='price'>₹8,020.00</span></td><td><span class='level-label'>Stop</span> <span class='price'>₹7,781.23</span></td><td><span class='level-label'>Target</span> <span class='price'>₹8,497.54</span></td><td class='outcome'><span class='badge badge-outcome-untracked'>Untracked</span></td><td class='reason'><ul class='reason-bullets'><li>Mixed confirmation</li><li>Setup not fully aligned</li></ul></td></tr>
+<tr><td class='grade-cell'><span class='badge badge-grade-c grade-anchor'>C</span></td><td class='symbol'>JSWSTEEL</td><td><span class='badge badge-conf-low'>Low</span></td><td><span class='level-label'>Entry</span> <span class='price'>₹1,299.50</span></td><td><span class='level-label'>Stop</span> <span class='price'>₹1,259.46</span></td><td><span class='level-label'>Target</span> <span class='price'>₹1,379.58</span></td><td class='outcome'><span class='badge badge-outcome-open'>Pending entry</span></td><td class='reason'><ul class='reason-bullets'><li>Mixed confirmation</li><li>Setup not fully aligned</li></ul></td></tr>
+<tr><td class='grade-cell'><span class='badge badge-grade-c grade-anchor'>C</span></td><td class='symbol'>GODREJPROP</td><td><span class='badge badge-conf-low'>Low</span></td><td><span class='level-label'>Entry</span> <span class='price'>₹2,070.00</span></td><td><span class='level-label'>Stop</span> <span class='price'>₹1,972.49</span></td><td><span class='level-label'>Target</span> <span class='price'>₹2,265.02</span></td><td class='outcome'><span class='badge badge-outcome-open'>Pending entry</span></td><td class='reason'><ul class='reason-bullets'><li>Mixed confirmation</li><li>Setup not fully aligned</li></ul></td></tr>
+<tr><td class='grade-cell'><span class='badge badge-grade-c grade-anchor'>C</span></td><td class='symbol'>PRESTIGE</td><td><span class='badge badge-conf-low'>Low</span></td><td><span class='level-label'>Entry</span> <span class='price'>₹1,584.80</span></td><td><span class='level-label'>Stop</span> <span class='price'>₹1,565.80</span></td><td><span class='level-label'>Target</span> <span class='price'>₹1,622.80</span></td><td class='outcome'><span class='badge badge-outcome-untracked'>Untracked</span></td><td class='reason'><ul class='reason-bullets'><li>Mixed confirmation</li><li>Setup not fully aligned</li></ul></td></tr>
           </tbody>
         </table>
       </div>
       <div class="card-grid">
-        <article class='rec-card'><h3>AUROPHARMA</h3><p class='sector'>Pharma</p><div class='badge-row'><span class='badge badge-grade-b'>Grade B</span><span class='badge badge-conf-med'>Medium Confidence</span><span class='badge badge-outcome-untracked'>Untracked</span></div><dl class='levels'><div><dt><span class='badge badge-buy'>BUY</span></dt><dd>₹1,658.00</dd></div><div><dt><span class='badge badge-stop'>STOP</span></dt><dd>₹1,592.92</dd></div><div><dt><span class='badge badge-target'>TARGET</span></dt><dd>₹1,788.15</dd></div></dl><p class='reason'>Most signals agree positively; pullback not yet confirming</p></article>
-<article class='rec-card'><h3>BAJAJ-AUTO</h3><p class='sector'>Auto</p><div class='badge-row'><span class='badge badge-grade-c'>Grade C</span><span class='badge badge-conf-low'>Low Confidence</span><span class='badge badge-outcome-untracked'>Untracked</span></div><dl class='levels'><div><dt><span class='badge badge-buy'>BUY</span></dt><dd>₹11,662.00</dd></div><div><dt><span class='badge badge-stop'>STOP</span></dt><dd>₹11,293.43</dd></div><div><dt><span class='badge badge-target'>TARGET</span></dt><dd>₹12,399.14</dd></div></dl><p class='reason'>Mixed signals — several checks not confirming</p></article>
-<article class='rec-card'><h3>CIPLA</h3><p class='sector'>Pharma</p><div class='badge-row'><span class='badge badge-grade-c'>Grade C</span><span class='badge badge-conf-low'>Low Confidence</span><span class='badge badge-outcome-untracked'>Untracked</span></div><dl class='levels'><div><dt><span class='badge badge-buy'>BUY</span></dt><dd>₹1,463.80</dd></div><div><dt><span class='badge badge-stop'>STOP</span></dt><dd>₹1,420.50</dd></div><div><dt><span class='badge badge-target'>TARGET</span></dt><dd>₹1,550.41</dd></div></dl><p class='reason'>Mixed signals — several checks not confirming</p></article>
-<article class='rec-card'><h3>EICHERMOT</h3><p class='sector'>Auto</p><div class='badge-row'><span class='badge badge-grade-c'>Grade C</span><span class='badge badge-conf-low'>Low Confidence</span><span class='badge badge-outcome-untracked'>Untracked</span></div><dl class='levels'><div><dt><span class='badge badge-buy'>BUY</span></dt><dd>₹8,020.00</dd></div><div><dt><span class='badge badge-stop'>STOP</span></dt><dd>₹7,781.23</dd></div><div><dt><span class='badge badge-target'>TARGET</span></dt><dd>₹8,497.54</dd></div></dl><p class='reason'>Mixed signals — several checks not confirming</p></article>
-<article class='rec-card'><h3>JSWSTEEL</h3><p class='sector'>Metal</p><div class='badge-row'><span class='badge badge-grade-c'>Grade C</span><span class='badge badge-conf-low'>Low Confidence</span><span class='badge badge-outcome-open'>Pending entry</span></div><dl class='levels'><div><dt><span class='badge badge-buy'>BUY</span></dt><dd>₹1,299.50</dd></div><div><dt><span class='badge badge-stop'>STOP</span></dt><dd>₹1,259.46</dd></div><div><dt><span class='badge badge-target'>TARGET</span></dt><dd>₹1,379.58</dd></div></dl><p class='reason'>Mixed signals — several checks not confirming</p></article>
-<article class='rec-card'><h3>GODREJPROP</h3><p class='sector'>Realty</p><div class='badge-row'><span class='badge badge-grade-c'>Grade C</span><span class='badge badge-conf-low'>Low Confidence</span><span class='badge badge-outcome-open'>Pending entry</span></div><dl class='levels'><div><dt><span class='badge badge-buy'>BUY</span></dt><dd>₹2,070.00</dd></div><div><dt><span class='badge badge-stop'>STOP</span></dt><dd>₹1,972.49</dd></div><div><dt><span class='badge badge-target'>TARGET</span></dt><dd>₹2,265.02</dd></div></dl><p class='reason'>Mixed signals — several checks not confirming</p></article>
-<article class='rec-card'><h3>PRESTIGE</h3><p class='sector'>Realty</p><div class='badge-row'><span class='badge badge-grade-c'>Grade C</span><span class='badge badge-conf-low'>Low Confidence</span><span class='badge badge-outcome-untracked'>Untracked</span></div><dl class='levels'><div><dt><span class='badge badge-buy'>BUY</span></dt><dd>₹1,584.80</dd></div><div><dt><span class='badge badge-stop'>STOP</span></dt><dd>₹1,565.80</dd></div><div><dt><span class='badge badge-target'>TARGET</span></dt><dd>₹1,622.80</dd></div></dl><p class='reason'>Mixed signals — several checks not confirming</p></article>
+        <article class='rec-card'><div class='grade-hero'><span class='badge badge-grade-b grade-anchor'>B</span></div><h3>AUROPHARMA</h3><p class='sector'>Pharma</p><div class='badge-row'><span class='badge badge-conf-med'>Medium Confidence</span><span class='badge badge-outcome-untracked'>Untracked</span></div><dl class='levels'><div><dt>Entry</dt><dd>₹1,658.00</dd></div><div><dt>Stop</dt><dd>₹1,592.92</dd></div><div><dt>Target</dt><dd>₹1,788.15</dd></div></dl><div class='reason'><ul class='reason-bullets'><li>Trend continuation</li><li>Pullback not yet confirming</li></ul></div></article>
+<article class='rec-card'><div class='grade-hero'><span class='badge badge-grade-c grade-anchor'>C</span></div><h3>BAJAJ-AUTO</h3><p class='sector'>Auto</p><div class='badge-row'><span class='badge badge-conf-low'>Low Confidence</span><span class='badge badge-outcome-untracked'>Untracked</span></div><dl class='levels'><div><dt>Entry</dt><dd>₹11,662.00</dd></div><div><dt>Stop</dt><dd>₹11,293.43</dd></div><div><dt>Target</dt><dd>₹12,399.14</dd></div></dl><div class='reason'><ul class='reason-bullets'><li>Mixed confirmation</li><li>Setup not fully aligned</li></ul></div></article>
+<article class='rec-card'><div class='grade-hero'><span class='badge badge-grade-c grade-anchor'>C</span></div><h3>CIPLA</h3><p class='sector'>Pharma</p><div class='badge-row'><span class='badge badge-conf-low'>Low Confidence</span><span class='badge badge-outcome-untracked'>Untracked</span></div><dl class='levels'><div><dt>Entry</dt><dd>₹1,463.80</dd></div><div><dt>Stop</dt><dd>₹1,420.50</dd></div><div><dt>Target</dt><dd>₹1,550.41</dd></div></dl><div class='reason'><ul class='reason-bullets'><li>Mixed confirmation</li><li>Setup not fully aligned</li></ul></div></article>
+<article class='rec-card'><div class='grade-hero'><span class='badge badge-grade-c grade-anchor'>C</span></div><h3>EICHERMOT</h3><p class='sector'>Auto</p><div class='badge-row'><span class='badge badge-conf-low'>Low Confidence</span><span class='badge badge-outcome-untracked'>Untracked</span></div><dl class='levels'><div><dt>Entry</dt><dd>₹8,020.00</dd></div><div><dt>Stop</dt><dd>₹7,781.23</dd></div><div><dt>Target</dt><dd>₹8,497.54</dd></div></dl><div class='reason'><ul class='reason-bullets'><li>Mixed confirmation</li><li>Setup not fully aligned</li></ul></div></article>
+<article class='rec-card'><div class='grade-hero'><span class='badge badge-grade-c grade-anchor'>C</span></div><h3>JSWSTEEL</h3><p class='sector'>Metal</p><div class='badge-row'><span class='badge badge-conf-low'>Low Confidence</span><span class='badge badge-outcome-open'>Pending entry</span></div><dl class='levels'><div><dt>Entry</dt><dd>₹1,299.50</dd></div><div><dt>Stop</dt><dd>₹1,259.46</dd></div><div><dt>Target</dt><dd>₹1,379.58</dd></div></dl><div class='reason'><ul class='reason-bullets'><li>Mixed confirmation</li><li>Setup not fully aligned</li></ul></div></article>
+<article class='rec-card'><div class='grade-hero'><span class='badge badge-grade-c grade-anchor'>C</span></div><h3>GODREJPROP</h3><p class='sector'>Realty</p><div class='badge-row'><span class='badge badge-conf-low'>Low Confidence</span><span class='badge badge-outcome-open'>Pending entry</span></div><dl class='levels'><div><dt>Entry</dt><dd>₹2,070.00</dd></div><div><dt>Stop</dt><dd>₹1,972.49</dd></div><div><dt>Target</dt><dd>₹2,265.02</dd></div></dl><div class='reason'><ul class='reason-bullets'><li>Mixed confirmation</li><li>Setup not fully aligned</li></ul></div></article>
+<article class='rec-card'><div class='grade-hero'><span class='badge badge-grade-c grade-anchor'>C</span></div><h3>PRESTIGE</h3><p class='sector'>Realty</p><div class='badge-row'><span class='badge badge-conf-low'>Low Confidence</span><span class='badge badge-outcome-untracked'>Untracked</span></div><dl class='levels'><div><dt>Entry</dt><dd>₹1,584.80</dd></div><div><dt>Stop</dt><dd>₹1,565.80</dd></div><div><dt>Target</dt><dd>₹1,622.80</dd></div></dl><div class='reason'><ul class='reason-bullets'><li>Mixed confirmation</li><li>Setup not fully aligned</li></ul></div></article>
       </div>
     </section>
-
     
     <section class="panel reject-panel">
       <h2>Rejected</h2>
@@ -104,49 +117,42 @@
             </tr>
           </thead>
           <tbody>
-            <tr><td class='symbol'>HINDALCO</td><td class='sector-cell'>Metal</td><td class='reason'>Trend check failed — no structural foundation</td></tr>
+            <tr><td class='symbol'>HINDALCO</td><td class='sector-cell'>Metal</td><td class='reason'><ul class='reason-bullets'><li>Trend check failed</li><li>No structural foundation</li></ul></td></tr>
           </tbody>
         </table>
       </div>
       <div class="card-grid">
-        <article class='rec-card reject-card'><h3>HINDALCO</h3><p class='sector'>Metal</p><div class='badge-row'><span class='badge badge-reject'>Rejected</span></div><p class='reason'>Trend check failed — no structural foundation</p></article>
+        <article class='rec-card reject-card'><h3>HINDALCO</h3><p class='sector'>Metal</p><div class='badge-row'><span class='badge badge-reject'>Rejected</span></div><div class='reason'><ul class='reason-bullets'><li>Trend check failed</li><li>No structural foundation</li></ul></div></article>
       </div>
     </section>
 
-
-    <section class="panel summary">
-      <h2>Research Summary</h2>
-      <ul class="summary-list">
-        <li><span>Candidates Scanned</span><strong>8</strong></li>
-        <li><span>Recommended</span><strong>7</strong></li>
-        <li><span>Rejected</span><strong>1</strong></li>
-        <li><span>Market</span><strong>SIDEWAYS</strong></li>
-        <li><span>Open</span><strong>2</strong></li>
-        <li><span>Target Hit</span><strong>0</strong></li>
-        <li><span>Stop</span><strong>0</strong></li>
-        <li><span>Other closed</span><strong>0</strong></li>
-        <li><span>Untracked</span><strong>5</strong></li>
-      </ul>
-    </section>
-
-    <section class="panel">
-      <h2>Generated</h2>
-      <p class="generated">2026-08-07 23:22 IST</p>
-    </section>
-
-    <section class="panel">
-      <h2>History</h2>
-      <p class='history-archive-link'><a href='index.html'>Full performance archive →</a></p><ul class='history-list'>
-<li class='current'>August 7, 2026 <span class='hist-meta'>7 recommended · 2 open · 0 target · 0 stop</span></li>
+    <section class="panel" id="archive">
+      <h2>Recommendation Archive</h2>
+      <p class='history-archive-link'><a href='index.html'>Full Recommendation Archive →</a></p>
+<h3 class='archive-month'>August 2026</h3>
+<ul class='history-list'>
+<li class='current'><span class='day-chip'>Fri 07</span><span class='hist-meta'>7 recommendations · 0 closed · 2 open</span></li>
 </ul>
     </section>
-
-    <footer class="disclaimer">
-      <p>
+    <section class="panel" id="about">
+      <h2>About</h2>
+      <p class="panel-note">
+        This page shows what today's automation recommended and how tracked picks are performing in paper trading.
+        It does not expose Reports, Journal, Business Outcomes, or laboratory tools.
+      </p>
+    </section>
+    
+    <footer class="site-footer" id="disclaimer">
+      <p class="footer-kicker">Generated automatically</p>
+      <p><strong>Trading Assistant</strong> · publishing-001.d1</p>
+      <p>Market Data Date · 2026-08-07</p>
+      <p>Last Updated · 2026-08-07 23:46 IST</p>
+      <p class="disclaimer">
         These are paper / research recommendations produced by an automated laboratory system.
         They are <strong>not</strong> investment advice and do not execute brokerage orders.
       </p>
     </footer>
+
   </div>
 </body>
 </html>
