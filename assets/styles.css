@@ -56,6 +56,31 @@ h2 {
 }
 .nav-home { margin: 0 0 1rem; }
 .nav-home a { color: var(--accent); text-decoration: none; font-weight: 600; }
+.top-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin: 0 0 1.35rem;
+}
+.nav-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.45rem 0.9rem;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--card);
+  color: var(--ink);
+  text-decoration: none;
+  font-size: 0.92rem;
+  font-weight: 650;
+  box-shadow: var(--shadow);
+}
+.nav-btn:hover { border-color: var(--accent); color: var(--accent); }
+.nav-btn-current {
+  background: #dcfce7;
+  border-color: #86efac;
+  color: var(--accent);
+}
 .stat-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
