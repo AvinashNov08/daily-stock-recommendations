@@ -105,6 +105,17 @@ h2 {
 .badge-stop, .badge-bear { background: #fee2e2; color: var(--stop); }
 .badge-target { background: #ede9fe; color: var(--target); }
 .badge-reject { background: #f1f5f9; color: #64748b; }
+.badge-outcome-target { background: #dcfce7; color: var(--grade-a); }
+.badge-outcome-stop { background: #fee2e2; color: var(--stop); }
+.badge-outcome-open { background: #e0f2fe; color: #0369a1; }
+.badge-outcome-untracked { background: #f1f5f9; color: #64748b; }
+.outcome-ret { margin-left: 0.35rem; font-variant-numeric: tabular-nums; font-weight: 600; }
+.outcome-stats { margin-top: 0.85rem; }
+.history-archive-link { margin: 0 0 0.85rem; }
+.history-archive-link a { color: var(--accent); font-weight: 600; text-decoration: none; }
+.hist-meta { display: block; font-size: 0.78rem; color: var(--muted); font-weight: 500; margin-top: 0.15rem; }
+.history-list li { list-style: none; }
+.archive-table { min-width: 640px; }
 .panel-note {
   margin: -0.35rem 0 1rem;
   color: var(--muted);
@@ -199,6 +210,6 @@ h2 {
 
 @media (max-width: 820px) {
   .stat-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .table-wrap { display: none; }
+  .table-wrap:not(.archive-wrap) { display: none; }
   .card-grid { display: grid; }
 }

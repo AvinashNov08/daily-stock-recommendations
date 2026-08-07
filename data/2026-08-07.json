@@ -4,7 +4,7 @@
   "candidates_scanned": 8,
   "recommended_count": 7,
   "rejected_count": 1,
-  "generated_at_label": "2026-08-07 23:12 IST",
+  "generated_at_label": "2026-08-07 23:22 IST",
   "recommendations": [
     {
       "symbol": "AUROPHARMA",
@@ -17,7 +17,11 @@
       "entry_display": "₹1,658.00",
       "stop_display": "₹1,592.92",
       "target_display": "₹1,788.15",
-      "reason": "Most signals agree positively; pullback not yet confirming"
+      "reason": "Most signals agree positively; pullback not yet confirming",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
     },
     {
       "symbol": "BAJAJ-AUTO",
@@ -30,7 +34,11 @@
       "entry_display": "₹11,662.00",
       "stop_display": "₹11,293.43",
       "target_display": "₹12,399.14",
-      "reason": "Mixed signals — several checks not confirming"
+      "reason": "Mixed signals — several checks not confirming",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
     },
     {
       "symbol": "CIPLA",
@@ -43,7 +51,11 @@
       "entry_display": "₹1,463.80",
       "stop_display": "₹1,420.50",
       "target_display": "₹1,550.41",
-      "reason": "Mixed signals — several checks not confirming"
+      "reason": "Mixed signals — several checks not confirming",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
     },
     {
       "symbol": "EICHERMOT",
@@ -56,7 +68,11 @@
       "entry_display": "₹8,020.00",
       "stop_display": "₹7,781.23",
       "target_display": "₹8,497.54",
-      "reason": "Mixed signals — several checks not confirming"
+      "reason": "Mixed signals — several checks not confirming",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
     },
     {
       "symbol": "JSWSTEEL",
@@ -69,7 +85,11 @@
       "entry_display": "₹1,299.50",
       "stop_display": "₹1,259.46",
       "target_display": "₹1,379.58",
-      "reason": "Mixed signals — several checks not confirming"
+      "reason": "Mixed signals — several checks not confirming",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
     },
     {
       "symbol": "GODREJPROP",
@@ -82,7 +102,11 @@
       "entry_display": "₹2,070.00",
       "stop_display": "₹1,972.49",
       "target_display": "₹2,265.02",
-      "reason": "Mixed signals — several checks not confirming"
+      "reason": "Mixed signals — several checks not confirming",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
     },
     {
       "symbol": "PRESTIGE",
@@ -95,7 +119,11 @@
       "entry_display": "₹1,584.80",
       "stop_display": "₹1,565.80",
       "target_display": "₹1,622.80",
-      "reason": "Mixed signals — several checks not confirming"
+      "reason": "Mixed signals — several checks not confirming",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
     }
   ],
   "rejections": [
@@ -104,5 +132,13 @@
       "sector": "Metal",
       "reason": "Trend check failed — no structural foundation"
     }
-  ]
+  ],
+  "outcomes_as_of": "2026-08-07",
+  "outcome_counts": {
+    "open": 2,
+    "target": 0,
+    "stop": 0,
+    "other_closed": 0,
+    "untracked": 5
+  }
 }
