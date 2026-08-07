@@ -1,4 +1,4 @@
-﻿# Daily Stock Recommendations
+# Daily Stock Recommendations
 
 Public paper/research recommendations from an automated laboratory system.
 
