@@ -1,0 +1,101 @@
+{
+  "as_of_date": "2026-08-07",
+  "market_regime": "SIDEWAYS",
+  "candidates_scanned": 8,
+  "recommended_count": 7,
+  "rejected_count": 1,
+  "generated_at_label": "2026-08-07 22:44 IST",
+  "recommendations": [
+    {
+      "symbol": "AUROPHARMA",
+      "sector": "Pharma",
+      "grade": "B",
+      "confidence": "Medium",
+      "entry": 1658.0,
+      "stop": 1592.922705138095,
+      "target": 1788.1545897238102,
+      "entry_display": "₹1,658.00",
+      "stop_display": "₹1,592.92",
+      "target_display": "₹1,788.15",
+      "reason": "Most lenses agree positively; pullback not yet confirming"
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "sector": "Auto",
+      "grade": "C",
+      "confidence": "Low",
+      "entry": 11662.0,
+      "stop": 11293.428718740844,
+      "target": 12399.142562518311,
+      "entry_display": "₹11,662.00",
+      "stop_display": "₹11,293.43",
+      "target_display": "₹12,399.14",
+      "reason": "Fragmented lens agreement - multiple lenses not confirming"
+    },
+    {
+      "symbol": "CIPLA",
+      "sector": "Pharma",
+      "grade": "C",
+      "confidence": "Low",
+      "entry": 1463.800048828125,
+      "stop": 1420.4961168753134,
+      "target": 1550.4079127337482,
+      "entry_display": "₹1,463.80",
+      "stop_display": "₹1,420.50",
+      "target_display": "₹1,550.41",
+      "reason": "Fragmented lens agreement - multiple lenses not confirming"
+    },
+    {
+      "symbol": "EICHERMOT",
+      "sector": "Auto",
+      "grade": "C",
+      "confidence": "Low",
+      "entry": 8020.0,
+      "stop": 7781.231411979219,
+      "target": 8497.537176041562,
+      "entry_display": "₹8,020.00",
+      "stop_display": "₹7,781.23",
+      "target_display": "₹8,497.54",
+      "reason": "Fragmented lens agreement - multiple lenses not confirming"
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "sector": "Metal",
+      "grade": "C",
+      "confidence": "Low",
+      "entry": 1299.5,
+      "stop": 1259.4584730113068,
+      "target": 1379.5830539773865,
+      "entry_display": "₹1,299.50",
+      "stop_display": "₹1,259.46",
+      "target_display": "₹1,379.58",
+      "reason": "Fragmented lens agreement - multiple lenses not confirming"
+    },
+    {
+      "symbol": "GODREJPROP",
+      "sector": "Realty",
+      "grade": "C",
+      "confidence": "Low",
+      "entry": 2070.0,
+      "stop": 1972.4899661723791,
+      "target": 2265.0200676552417,
+      "entry_display": "₹2,070.00",
+      "stop_display": "₹1,972.49",
+      "target_display": "₹2,265.02",
+      "reason": "Fragmented lens agreement - multiple lenses not confirming"
+    },
+    {
+      "symbol": "PRESTIGE",
+      "sector": "Realty",
+      "grade": "C",
+      "confidence": "Low",
+      "entry": 1584.800048828125,
+      "stop": 1565.800048828125,
+      "target": 1622.800048828125,
+      "entry_display": "₹1,584.80",
+      "stop_display": "₹1,565.80",
+      "target_display": "₹1,622.80",
+      "reason": "Fragmented lens agreement - multiple lenses not confirming"
+    }
+  ]
+}
