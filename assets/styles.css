@@ -104,6 +104,14 @@ h2 {
 .badge-grade-c, .badge-conf-low, .badge-neutral { background: #e2e8f0; color: var(--grade-c); }
 .badge-stop, .badge-bear { background: #fee2e2; color: var(--stop); }
 .badge-target { background: #ede9fe; color: var(--target); }
+.badge-reject { background: #f1f5f9; color: #64748b; }
+.panel-note {
+  margin: -0.35rem 0 1rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+.reject-table { min-width: 420px; }
+.sector-cell { color: var(--muted); }
 .table-wrap { overflow-x: auto; }
 .rec-table {
   width: 100%;

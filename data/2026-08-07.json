@@ -4,7 +4,7 @@
   "candidates_scanned": 8,
   "recommended_count": 7,
   "rejected_count": 1,
-  "generated_at_label": "2026-08-07 22:44 IST",
+  "generated_at_label": "2026-08-07 23:12 IST",
   "recommendations": [
     {
       "symbol": "AUROPHARMA",
@@ -96,6 +96,13 @@
       "stop_display": "₹1,565.80",
       "target_display": "₹1,622.80",
       "reason": "Mixed signals — several checks not confirming"
+    }
+  ],
+  "rejections": [
+    {
+      "symbol": "HINDALCO",
+      "sector": "Metal",
+      "reason": "Trend check failed — no structural foundation"
     }
   ]
 }
