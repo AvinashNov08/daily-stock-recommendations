@@ -86,9 +86,9 @@
       "stop_display": "₹1,259.46",
       "target_display": "₹1,379.58",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -103,9 +103,9 @@
       "stop_display": "₹1,972.49",
       "target_display": "₹2,265.02",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -133,7 +133,7 @@
       "reason": "Trend check failed\nNo structural foundation"
     }
   ],
-  "outcomes_as_of": "2026-08-07",
+  "outcomes_as_of": "2026-08-10",
   "outcome_counts": {
     "open": 2,
     "target": 0,

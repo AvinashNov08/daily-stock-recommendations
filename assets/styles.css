@@ -159,10 +159,21 @@ h2 { font-size: 1.05rem; margin: 0 0 1rem; letter-spacing: 0.02em; }
 .archive-table { min-width: 640px; }
 .reject-table { min-width: 420px; }
 .sector-cell { color: var(--muted); }
+.filter-bar { display: flex; flex-wrap: wrap; gap: 0.65rem 1rem; align-items: center; margin: 0 0 1rem; }
+.filter-kicker { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); }
+.filter-group { display: flex; flex-wrap: wrap; gap: 0.45rem; }
+.filter-chip {
+  border: 1px solid var(--line); background: #fcfcfa; border-radius: 999px;
+  padding: 0.4rem 0.8rem; font-weight: 650; font-size: 0.88rem; color: var(--ink); cursor: pointer;
+}
+.filter-chip:hover { border-color: var(--accent); color: var(--accent); }
+.filter-chip.is-active { background: #dcfce7; border-color: #86efac; color: var(--accent); }
+.tracker-table { min-width: 420px; }
+.kpi-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 @media (max-width: 820px) {
   .page { padding: 1rem 0.9rem 3.5rem; }
-  .status-banner, .stat-grid, .grade-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .table-wrap:not(.archive-wrap) { display: none; }
+  .status-banner, .stat-grid, .grade-grid, .kpi-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .table-wrap:not(.archive-wrap):not(.tracker-wrap) { display: none; }
   .card-grid { display: grid; }
   .badge, .grade-anchor { font-size: 0.9rem; padding: 0.4rem 0.8rem; }
   .rec-card { padding: 1.2rem 1.15rem; }

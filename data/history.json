@@ -1,0 +1,25 @@
+{
+  "product": "Daily Recommendation Center",
+  "days": [
+    {
+      "as_of_date": "2026-08-10",
+      "human_date": "August 10, 2026",
+      "month_label": "August 2026",
+      "recommended_count": 8,
+      "closed_count": 0,
+      "open_count": 6,
+      "untracked_count": 2,
+      "href": "history/2026-08-10.html"
+    },
+    {
+      "as_of_date": "2026-08-07",
+      "human_date": "August 7, 2026",
+      "month_label": "August 2026",
+      "recommended_count": 7,
+      "closed_count": 0,
+      "open_count": 2,
+      "untracked_count": 5,
+      "href": "history/2026-08-07.html"
+    }
+  ]
+}
