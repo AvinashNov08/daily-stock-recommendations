@@ -86,10 +86,10 @@
       "stop_display": "₹1,259.46",
       "target_display": "₹1,379.58",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -1.428569553451421,
+      "outcome_exit_date": "2026-08-11"
     },
     {
       "symbol": "GODREJPROP",
@@ -103,10 +103,10 @@
       "stop_display": "₹1,972.49",
       "target_display": "₹2,265.02",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -3.343762151161081,
+      "outcome_exit_date": "2026-08-11"
     },
     {
       "symbol": "PRESTIGE",
@@ -133,12 +133,12 @@
       "reason": "Trend check failed\nNo structural foundation"
     }
   ],
-  "outcomes_as_of": "2026-08-10",
+  "outcomes_as_of": "2026-08-11",
   "outcome_counts": {
-    "open": 2,
+    "open": 0,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
+    "other_closed": 2,
     "untracked": 5
   }
 }
