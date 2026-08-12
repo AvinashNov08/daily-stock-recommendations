@@ -21,11 +21,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1667.0,
-      "last_close_date": "2026-08-12",
-      "last_close_display": "₹1,667.00",
-      "yahoo_ticker": "AUROPHARMA.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "BAJAJ-AUTO",
@@ -42,11 +38,7 @@
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 11700.0,
-      "last_close_date": "2026-08-12",
-      "last_close_display": "₹11,700.00",
-      "yahoo_ticker": "BAJAJ-AUTO.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "CIPLA",
@@ -63,11 +55,7 @@
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1463.0,
-      "last_close_date": "2026-08-12",
-      "last_close_display": "₹1,463.00",
-      "yahoo_ticker": "CIPLA.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "EICHERMOT",
@@ -84,11 +72,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 8049.0,
-      "last_close_date": "2026-08-12",
-      "last_close_display": "₹8,049.00",
-      "yahoo_ticker": "EICHERMOT.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "HINDALCO",
@@ -105,11 +89,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1078.5,
-      "last_close_date": "2026-08-12",
-      "last_close_display": "₹1,078.50",
-      "yahoo_ticker": "HINDALCO.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "ICICIBANK",
@@ -126,11 +106,7 @@
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1431.699951171875,
-      "last_close_date": "2026-08-12",
-      "last_close_display": "₹1,431.70",
-      "yahoo_ticker": "ICICIBANK.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "JSWSTEEL",
@@ -147,11 +123,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1269.0999755859375,
-      "last_close_date": "2026-08-12",
-      "last_close_display": "₹1,269.10",
-      "yahoo_ticker": "JSWSTEEL.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "SBIN",
@@ -168,11 +140,7 @@
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1082.0,
-      "last_close_date": "2026-08-12",
-      "last_close_display": "₹1,082.00",
-      "yahoo_ticker": "SBIN.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "GODREJPROP",
@@ -189,11 +157,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 2015.0,
-      "last_close_date": "2026-08-12",
-      "last_close_display": "₹2,015.00",
-      "yahoo_ticker": "GODREJPROP.NS"
+      "outcome_exit_date": null
     }
   ],
   "rejections": [
@@ -210,7 +174,5 @@
     "stop": 0,
     "other_closed": 0,
     "untracked": 5
-  },
-  "product": "Daily Recommendation Center",
-  "human_date": "August 12, 2026"
+  }
 }
