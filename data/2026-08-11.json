@@ -105,7 +105,7 @@
       "reason": "Healthy structure\nMomentum not yet confirming",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_return_pct": 0.07091832254168651,
       "outcome_exit_date": null
     },
     {
@@ -120,10 +120,10 @@
       "stop_display": "₹1,965.20",
       "target_display": "₹2,183.30",
       "reason": "Healthy structure\nMomentum not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -1.240694789081886,
+      "outcome_exit_date": "2026-08-14"
     },
     {
       "symbol": "OBEROIRLTY",
@@ -144,12 +144,12 @@
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-08-12",
+  "outcomes_as_of": "2026-08-14",
   "outcome_counts": {
-    "open": 2,
+    "open": 1,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
+    "other_closed": 1,
     "untracked": 6
   }
 }

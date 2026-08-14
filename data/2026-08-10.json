@@ -18,10 +18,10 @@
       "stop_display": "₹1,583.64",
       "target_display": "₹1,776.72",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.5428226779252111,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -2.1652608211135407,
+      "outcome_exit_date": "2026-08-14"
     },
     {
       "symbol": "BAJAJ-AUTO",
@@ -69,10 +69,10 @@
       "stop_display": "₹7,744.07",
       "target_display": "₹8,436.86",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.6125,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.83125,
+      "outcome_exit_date": "2026-08-14"
     },
     {
       "symbol": "HINDALCO",
@@ -86,10 +86,10 @@
       "stop_display": "₹1,019.30",
       "target_display": "₹1,123.54",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 2.8024044512671122,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -1.868265755605478,
+      "outcome_exit_date": "2026-08-14"
     },
     {
       "symbol": "JSWSTEEL",
@@ -137,19 +137,19 @@
       "stop_display": "₹1,764.00",
       "target_display": "₹1,851.00",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.35125161205841815,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 2.9215000628523278,
+      "outcome_exit_date": "2026-08-14"
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-08-12",
+  "outcomes_as_of": "2026-08-14",
   "outcome_counts": {
-    "open": 4,
+    "open": 0,
     "target": 0,
     "stop": 0,
-    "other_closed": 2,
+    "other_closed": 6,
     "untracked": 2
   }
 }

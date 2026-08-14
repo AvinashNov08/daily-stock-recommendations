@@ -1,16 +1,46 @@
 {
   "product": "Daily Recommendation Center",
-  "as_of_date": "2026-08-12",
+  "as_of_date": "2026-08-14",
   "summary": {
-    "recommendations": 32,
-    "wins": 0,
-    "losses": 3,
-    "still_open": 10,
-    "hit_rate": 0.0,
-    "average_return": -1.2294,
+    "recommendations": 35,
+    "wins": 4,
+    "losses": 8,
+    "still_open": 4,
+    "hit_rate": 0.3333,
+    "average_return": -0.5689,
     "untracked": 18
   },
   "rows": [
+    {
+      "as_of_date": "2026-08-14",
+      "symbol": "AUROPHARMA",
+      "sector": "Pharma",
+      "grade": "C",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-14",
+      "symbol": "BAJAJ-AUTO",
+      "sector": "Auto",
+      "grade": "C",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-14",
+      "symbol": "HINDALCO",
+      "sector": "Metal",
+      "grade": "C",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
     {
       "as_of_date": "2026-08-12",
       "symbol": "AUROPHARMA",
@@ -26,20 +56,20 @@
       "symbol": "BAJAJ-AUTO",
       "sector": "Auto",
       "grade": "C",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.33444816053511706,
+      "outcome_exit_date": "2026-08-14"
     },
     {
       "as_of_date": "2026-08-12",
       "symbol": "CIPLA",
       "sector": "Pharma",
       "grade": "C",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -0.6032388630089645,
+      "outcome_exit_date": "2026-08-14"
     },
     {
       "as_of_date": "2026-08-12",
@@ -66,10 +96,10 @@
       "symbol": "ICICIBANK",
       "sector": "Banking",
       "grade": "C",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.7250462622866438,
+      "outcome_exit_date": "2026-08-14"
     },
     {
       "as_of_date": "2026-08-12",
@@ -86,10 +116,10 @@
       "symbol": "SBIN",
       "sector": "Banking",
       "grade": "B",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -1.4127468908702678,
+      "outcome_exit_date": "2026-08-14"
     },
     {
       "as_of_date": "2026-08-12",
@@ -158,7 +188,7 @@
       "grade": "B",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_return_pct": 0.07091832254168651,
       "outcome_exit_date": null
     },
     {
@@ -166,10 +196,10 @@
       "symbol": "GODREJPROP",
       "sector": "Realty",
       "grade": "B",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -1.240694789081886,
+      "outcome_exit_date": "2026-08-14"
     },
     {
       "as_of_date": "2026-08-11",
@@ -186,10 +216,10 @@
       "symbol": "AUROPHARMA",
       "sector": "Pharma",
       "grade": "B",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.5428226779252111,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -2.1652608211135407,
+      "outcome_exit_date": "2026-08-14"
     },
     {
       "as_of_date": "2026-08-10",
@@ -216,20 +246,20 @@
       "symbol": "EICHERMOT",
       "sector": "Auto",
       "grade": "C",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.6125,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.83125,
+      "outcome_exit_date": "2026-08-14"
     },
     {
       "as_of_date": "2026-08-10",
       "symbol": "HINDALCO",
       "sector": "Metal",
       "grade": "B",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 2.8024044512671122,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -1.868265755605478,
+      "outcome_exit_date": "2026-08-14"
     },
     {
       "as_of_date": "2026-08-10",
@@ -256,10 +286,10 @@
       "symbol": "OBEROIRLTY",
       "sector": "Realty",
       "grade": "C",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.35125161205841815,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 2.9215000628523278,
+      "outcome_exit_date": "2026-08-14"
     },
     {
       "as_of_date": "2026-08-07",

@@ -35,10 +35,10 @@
       "stop_display": "₹11,349.32",
       "target_display": "₹12,401.35",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.33444816053511706,
+      "outcome_exit_date": "2026-08-14"
     },
     {
       "symbol": "CIPLA",
@@ -52,10 +52,10 @@
       "stop_display": "₹1,423.71",
       "target_display": "₹1,541.58",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -0.6032388630089645,
+      "outcome_exit_date": "2026-08-14"
     },
     {
       "symbol": "EICHERMOT",
@@ -103,10 +103,10 @@
       "stop_display": "₹1,406.20",
       "target_display": "₹1,482.70",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.7250462622866438,
+      "outcome_exit_date": "2026-08-14"
     },
     {
       "symbol": "JSWSTEEL",
@@ -137,10 +137,10 @@
       "stop_display": "₹1,049.34",
       "target_display": "₹1,147.31",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -1.4127468908702678,
+      "outcome_exit_date": "2026-08-14"
     },
     {
       "symbol": "GODREJPROP",
@@ -167,12 +167,12 @@
       "reason": "Trend check failed\nNo structural foundation"
     }
   ],
-  "outcomes_as_of": "2026-08-12",
+  "outcomes_as_of": "2026-08-14",
   "outcome_counts": {
-    "open": 4,
+    "open": 0,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
+    "other_closed": 4,
     "untracked": 5
   }
 }
