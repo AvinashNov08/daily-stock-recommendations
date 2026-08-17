@@ -2,6 +2,16 @@
   "product": "Daily Recommendation Center",
   "days": [
     {
+      "as_of_date": "2026-08-17",
+      "human_date": "August 17, 2026",
+      "month_label": "August 2026",
+      "recommended_count": 3,
+      "closed_count": 0,
+      "open_count": 0,
+      "untracked_count": 3,
+      "href": "history/2026-08-17.html"
+    },
+    {
       "as_of_date": "2026-08-14",
       "human_date": "August 14, 2026",
       "month_label": "August 2026",

@@ -1,24 +1,54 @@
 {
   "product": "Daily Recommendation Center",
-  "as_of_date": "2026-08-14",
+  "as_of_date": "2026-08-17",
   "summary": {
-    "recommendations": 35,
+    "recommendations": 38,
     "wins": 4,
     "losses": 8,
     "still_open": 4,
     "hit_rate": 0.3333,
     "average_return": -0.5689,
-    "untracked": 18
+    "untracked": 21
   },
   "rows": [
+    {
+      "as_of_date": "2026-08-17",
+      "symbol": "AUROPHARMA",
+      "sector": "Pharma",
+      "grade": "B",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-17",
+      "symbol": "BAJAJ-AUTO",
+      "sector": "Auto",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-17",
+      "symbol": "HINDALCO",
+      "sector": "Metal",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
     {
       "as_of_date": "2026-08-14",
       "symbol": "AUROPHARMA",
       "sector": "Pharma",
       "grade": "C",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -26,9 +56,9 @@
       "symbol": "BAJAJ-AUTO",
       "sector": "Auto",
       "grade": "C",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -36,9 +66,9 @@
       "symbol": "HINDALCO",
       "sector": "Metal",
       "grade": "C",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -188,7 +218,7 @@
       "grade": "B",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.07091832254168651,
+      "outcome_return_pct": 0.6855309597000596,
       "outcome_exit_date": null
     },
     {
