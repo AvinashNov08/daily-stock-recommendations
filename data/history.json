@@ -2,6 +2,16 @@
   "product": "Daily Recommendation Center",
   "days": [
     {
+      "as_of_date": "2026-08-18",
+      "human_date": "August 18, 2026",
+      "month_label": "August 2026",
+      "recommended_count": 3,
+      "closed_count": 0,
+      "open_count": 3,
+      "untracked_count": 0,
+      "href": "history/2026-08-18.html"
+    },
+    {
       "as_of_date": "2026-08-17",
       "human_date": "August 17, 2026",
       "month_label": "August 2026",
@@ -16,8 +26,8 @@
       "human_date": "August 14, 2026",
       "month_label": "August 2026",
       "recommended_count": 3,
-      "closed_count": 0,
-      "open_count": 3,
+      "closed_count": 3,
+      "open_count": 0,
       "untracked_count": 0,
       "href": "history/2026-08-14.html"
     },
@@ -36,8 +46,8 @@
       "human_date": "August 11, 2026",
       "month_label": "August 2026",
       "recommended_count": 8,
-      "closed_count": 1,
-      "open_count": 1,
+      "closed_count": 2,
+      "open_count": 0,
       "untracked_count": 6,
       "href": "history/2026-08-11.html"
     },
