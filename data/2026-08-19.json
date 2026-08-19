@@ -21,11 +21,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1624.5,
-      "last_close_date": "2026-08-19",
-      "last_close_display": "₹1,624.50",
-      "yahoo_ticker": "AUROPHARMA.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "BAJAJ-AUTO",
@@ -42,11 +38,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 11645.0,
-      "last_close_date": "2026-08-19",
-      "last_close_display": "₹11,645.00",
-      "yahoo_ticker": "BAJAJ-AUTO.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "HINDALCO",
@@ -63,11 +55,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1038.949951171875,
-      "last_close_date": "2026-08-19",
-      "last_close_display": "₹1,038.95",
-      "yahoo_ticker": "HINDALCO.NS"
+      "outcome_exit_date": null
     }
   ],
   "rejections": [
@@ -84,7 +72,5 @@
     "stop": 0,
     "other_closed": 0,
     "untracked": 3
-  },
-  "product": "Daily Recommendation Center",
-  "human_date": "August 19, 2026"
+  }
 }
