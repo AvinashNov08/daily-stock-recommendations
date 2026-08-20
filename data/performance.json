@@ -1,17 +1,47 @@
 {
   "product": "Daily Recommendation Center",
-  "as_of_date": "2026-08-19",
+  "as_of_date": "2026-08-20",
   "summary": {
-    "recommendations": 44,
-    "wins": 5,
-    "losses": 11,
+    "recommendations": 47,
+    "wins": 6,
+    "losses": 13,
     "still_open": 3,
-    "hit_rate": 0.3125,
-    "average_return": -0.4524,
+    "hit_rate": 0.3158,
+    "average_return": -0.4156,
     "untracked": 24
   },
   "rows": [
     {
+      "as_of_date": "2026-08-20",
+      "symbol": "AUROPHARMA",
+      "sector": "Pharma",
+      "grade": "B",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-20",
+      "symbol": "BAJAJ-AUTO",
+      "sector": "Auto",
+      "grade": "C",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-20",
+      "symbol": "HINDALCO",
+      "sector": "Metal",
+      "grade": "B",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
       "as_of_date": "2026-08-19",
       "symbol": "AUROPHARMA",
       "sector": "Pharma",
@@ -46,30 +76,30 @@
       "symbol": "AUROPHARMA",
       "sector": "Pharma",
       "grade": "C",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -1.0156971375807942,
+      "outcome_exit_date": "2026-08-20"
     },
     {
       "as_of_date": "2026-08-18",
       "symbol": "BAJAJ-AUTO",
       "sector": "Auto",
       "grade": "C",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 1.270931730356376,
+      "outcome_exit_date": "2026-08-20"
     },
     {
       "as_of_date": "2026-08-18",
       "symbol": "HINDALCO",
       "sector": "Metal",
       "grade": "C",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -0.8758819975565962,
+      "outcome_exit_date": "2026-08-20"
     },
     {
       "as_of_date": "2026-08-17",
