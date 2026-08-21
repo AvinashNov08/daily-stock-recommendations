@@ -1,30 +1,50 @@
 {
   "product": "Daily Recommendation Center",
-  "as_of_date": "2026-08-20",
+  "as_of_date": "2026-08-21",
   "summary": {
-    "recommendations": 47,
+    "recommendations": 51,
     "wins": 6,
     "losses": 13,
-    "still_open": 3,
+    "still_open": 4,
     "hit_rate": 0.3158,
     "average_return": -0.4156,
-    "untracked": 24
+    "untracked": 27
   },
   "rows": [
     {
-      "as_of_date": "2026-08-20",
+      "as_of_date": "2026-08-21",
       "symbol": "AUROPHARMA",
       "sector": "Pharma",
-      "grade": "B",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
       "outcome_return_pct": null,
       "outcome_exit_date": null
     },
     {
-      "as_of_date": "2026-08-20",
+      "as_of_date": "2026-08-21",
       "symbol": "BAJAJ-AUTO",
       "sector": "Auto",
+      "grade": "B",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-21",
+      "symbol": "HINDALCO",
+      "sector": "Metal",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-21",
+      "symbol": "SBIN",
+      "sector": "Banking",
       "grade": "C",
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
@@ -33,12 +53,32 @@
     },
     {
       "as_of_date": "2026-08-20",
+      "symbol": "AUROPHARMA",
+      "sector": "Pharma",
+      "grade": "B",
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-20",
+      "symbol": "BAJAJ-AUTO",
+      "sector": "Auto",
+      "grade": "C",
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-20",
       "symbol": "HINDALCO",
       "sector": "Metal",
       "grade": "B",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {

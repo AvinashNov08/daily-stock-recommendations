@@ -21,11 +21,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1621.300048828125,
-      "last_close_date": "2026-08-21",
-      "last_close_display": "₹1,621.30",
-      "yahoo_ticker": "AUROPHARMA.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "BAJAJ-AUTO",
@@ -42,11 +38,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 11700.0,
-      "last_close_date": "2026-08-21",
-      "last_close_display": "₹11,700.00",
-      "yahoo_ticker": "BAJAJ-AUTO.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "HINDALCO",
@@ -63,11 +55,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1034.0,
-      "last_close_date": "2026-08-21",
-      "last_close_display": "₹1,034.00",
-      "yahoo_ticker": "HINDALCO.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "SBIN",
@@ -84,11 +72,7 @@
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1048.699951171875,
-      "last_close_date": "2026-08-21",
-      "last_close_display": "₹1,048.70",
-      "yahoo_ticker": "SBIN.NS"
+      "outcome_exit_date": null
     }
   ],
   "rejections": [
@@ -105,7 +89,5 @@
     "stop": 0,
     "other_closed": 0,
     "untracked": 3
-  },
-  "product": "Daily Recommendation Center",
-  "human_date": "August 21, 2026"
+  }
 }
