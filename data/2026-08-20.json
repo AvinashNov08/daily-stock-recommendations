@@ -18,10 +18,10 @@
       "stop_display": "₹1,552.77",
       "target_display": "₹1,718.46",
       "reason": "Healthy structure\nMomentum not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -0.8203323522834821,
+      "outcome_exit_date": "2026-08-24"
     },
     {
       "symbol": "BAJAJ-AUTO",
@@ -35,10 +35,10 @@
       "stop_display": "₹11,480.79",
       "target_display": "₹12,417.42",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.8547008547008548,
+      "outcome_exit_date": "2026-08-24"
     },
     {
       "symbol": "HINDALCO",
@@ -54,7 +54,7 @@
       "reason": "Healthy structure\nMomentum not yet confirming",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_return_pct": 2.369439071566731,
       "outcome_exit_date": null
     }
   ],
@@ -65,12 +65,12 @@
       "reason": "Trend check failed\nNo structural foundation"
     }
   ],
-  "outcomes_as_of": "2026-08-21",
+  "outcomes_as_of": "2026-08-24",
   "outcome_counts": {
-    "open": 3,
+    "open": 1,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
+    "other_closed": 2,
     "untracked": 0
   }
 }

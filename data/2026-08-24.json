@@ -21,11 +21,7 @@
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1608.0,
-      "last_close_date": "2026-08-24",
-      "last_close_display": "₹1,608.00",
-      "yahoo_ticker": "AUROPHARMA.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "BAJAJ-AUTO",
@@ -42,11 +38,7 @@
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 11800.0,
-      "last_close_date": "2026-08-24",
-      "last_close_display": "₹11,800.00",
-      "yahoo_ticker": "BAJAJ-AUTO.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "DLF",
@@ -63,11 +55,7 @@
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 689.0,
-      "last_close_date": "2026-08-24",
-      "last_close_display": "₹689.00",
-      "yahoo_ticker": "DLF.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "HINDALCO",
@@ -84,11 +72,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1058.5,
-      "last_close_date": "2026-08-24",
-      "last_close_display": "₹1,058.50",
-      "yahoo_ticker": "HINDALCO.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "SBIN",
@@ -105,11 +89,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1039.5,
-      "last_close_date": "2026-08-24",
-      "last_close_display": "₹1,039.50",
-      "yahoo_ticker": "SBIN.NS"
+      "outcome_exit_date": null
     }
   ],
   "rejections": [],
@@ -120,7 +100,5 @@
     "stop": 0,
     "other_closed": 0,
     "untracked": 2
-  },
-  "product": "Daily Recommendation Center",
-  "human_date": "August 24, 2026"
+  }
 }

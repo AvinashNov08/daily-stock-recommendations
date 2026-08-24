@@ -1,16 +1,66 @@
 {
   "product": "Daily Recommendation Center",
-  "as_of_date": "2026-08-21",
+  "as_of_date": "2026-08-24",
   "summary": {
-    "recommendations": 51,
-    "wins": 6,
-    "losses": 13,
-    "still_open": 4,
-    "hit_rate": 0.3158,
-    "average_return": -0.4156,
-    "untracked": 27
+    "recommendations": 56,
+    "wins": 7,
+    "losses": 14,
+    "still_open": 5,
+    "hit_rate": 0.3333,
+    "average_return": -0.3762,
+    "untracked": 29
   },
   "rows": [
+    {
+      "as_of_date": "2026-08-24",
+      "symbol": "AUROPHARMA",
+      "sector": "Pharma",
+      "grade": "B",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-24",
+      "symbol": "BAJAJ-AUTO",
+      "sector": "Auto",
+      "grade": "B",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-24",
+      "symbol": "DLF",
+      "sector": "Realty",
+      "grade": "B",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-24",
+      "symbol": "HINDALCO",
+      "sector": "Metal",
+      "grade": "B",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-24",
+      "symbol": "SBIN",
+      "sector": "Banking",
+      "grade": "B",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
     {
       "as_of_date": "2026-08-21",
       "symbol": "AUROPHARMA",
@@ -46,9 +96,9 @@
       "symbol": "SBIN",
       "sector": "Banking",
       "grade": "C",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -56,20 +106,20 @@
       "symbol": "AUROPHARMA",
       "sector": "Pharma",
       "grade": "B",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -0.8203323522834821,
+      "outcome_exit_date": "2026-08-24"
     },
     {
       "as_of_date": "2026-08-20",
       "symbol": "BAJAJ-AUTO",
       "sector": "Auto",
       "grade": "C",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.8547008547008548,
+      "outcome_exit_date": "2026-08-24"
     },
     {
       "as_of_date": "2026-08-20",
@@ -78,7 +128,7 @@
       "grade": "B",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_return_pct": 2.369439071566731,
       "outcome_exit_date": null
     },
     {
