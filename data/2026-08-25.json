@@ -21,11 +21,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1617.800048828125,
-      "last_close_date": "2026-08-25",
-      "last_close_display": "₹1,617.80",
-      "yahoo_ticker": "AUROPHARMA.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "BAJAJ-AUTO",
@@ -42,11 +38,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 11927.0,
-      "last_close_date": "2026-08-25",
-      "last_close_display": "₹11,927.00",
-      "yahoo_ticker": "BAJAJ-AUTO.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "DLF",
@@ -63,11 +55,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 682.9500122070312,
-      "last_close_date": "2026-08-25",
-      "last_close_display": "₹682.95",
-      "yahoo_ticker": "DLF.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "EICHERMOT",
@@ -84,11 +72,7 @@
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 8055.0,
-      "last_close_date": "2026-08-25",
-      "last_close_display": "₹8,055.00",
-      "yahoo_ticker": "EICHERMOT.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "HINDALCO",
@@ -105,11 +89,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1051.050048828125,
-      "last_close_date": "2026-08-25",
-      "last_close_display": "₹1,051.05",
-      "yahoo_ticker": "HINDALCO.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "JSWSTEEL",
@@ -126,11 +106,7 @@
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1320.300048828125,
-      "last_close_date": "2026-08-25",
-      "last_close_display": "₹1,320.30",
-      "yahoo_ticker": "JSWSTEEL.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "OBEROIRLTY",
@@ -147,11 +123,7 @@
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1880.0,
-      "last_close_date": "2026-08-25",
-      "last_close_display": "₹1,880.00",
-      "yahoo_ticker": "OBEROIRLTY.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "SBIN",
@@ -168,11 +140,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1048.0,
-      "last_close_date": "2026-08-25",
-      "last_close_display": "₹1,048.00",
-      "yahoo_ticker": "SBIN.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "ICICIBANK",
@@ -189,11 +157,7 @@
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1422.699951171875,
-      "last_close_date": "2026-08-25",
-      "last_close_display": "₹1,422.70",
-      "yahoo_ticker": "ICICIBANK.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "SUNPHARMA",
@@ -210,11 +174,7 @@
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1922.0,
-      "last_close_date": "2026-08-25",
-      "last_close_display": "₹1,922.00",
-      "yahoo_ticker": "SUNPHARMA.NS"
+      "outcome_exit_date": null
     }
   ],
   "rejections": [],
@@ -225,7 +185,5 @@
     "stop": 0,
     "other_closed": 0,
     "untracked": 5
-  },
-  "product": "Daily Recommendation Center",
-  "human_date": "August 25, 2026"
+  }
 }

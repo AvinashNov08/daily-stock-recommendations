@@ -71,7 +71,7 @@
       "reason": "Mixed confirmation\nSetup not fully aligned",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_return_pct": 0.8177008177008177,
       "outcome_exit_date": null
     }
   ],
@@ -82,7 +82,7 @@
       "reason": "Trend check failed\nNo structural foundation"
     }
   ],
-  "outcomes_as_of": "2026-08-24",
+  "outcomes_as_of": "2026-08-25",
   "outcome_counts": {
     "open": 1,
     "target": 0,

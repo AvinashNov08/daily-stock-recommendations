@@ -1,24 +1,124 @@
 {
   "product": "Daily Recommendation Center",
-  "as_of_date": "2026-08-24",
+  "as_of_date": "2026-08-25",
   "summary": {
-    "recommendations": 56,
+    "recommendations": 66,
     "wins": 7,
     "losses": 14,
-    "still_open": 5,
+    "still_open": 10,
     "hit_rate": 0.3333,
     "average_return": -0.3762,
-    "untracked": 29
+    "untracked": 34
   },
   "rows": [
+    {
+      "as_of_date": "2026-08-25",
+      "symbol": "AUROPHARMA",
+      "sector": "Pharma",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-25",
+      "symbol": "BAJAJ-AUTO",
+      "sector": "Auto",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-25",
+      "symbol": "DLF",
+      "sector": "Realty",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-25",
+      "symbol": "EICHERMOT",
+      "sector": "Auto",
+      "grade": "C",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-25",
+      "symbol": "HINDALCO",
+      "sector": "Metal",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-25",
+      "symbol": "JSWSTEEL",
+      "sector": "Metal",
+      "grade": "C",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-25",
+      "symbol": "OBEROIRLTY",
+      "sector": "Realty",
+      "grade": "C",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-25",
+      "symbol": "SBIN",
+      "sector": "Banking",
+      "grade": "B",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-25",
+      "symbol": "ICICIBANK",
+      "sector": "Banking",
+      "grade": "B",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-25",
+      "symbol": "SUNPHARMA",
+      "sector": "Pharma",
+      "grade": "C",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
     {
       "as_of_date": "2026-08-24",
       "symbol": "AUROPHARMA",
       "sector": "Pharma",
       "grade": "B",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -26,9 +126,9 @@
       "symbol": "BAJAJ-AUTO",
       "sector": "Auto",
       "grade": "B",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -36,9 +136,9 @@
       "symbol": "DLF",
       "sector": "Realty",
       "grade": "B",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -98,7 +198,7 @@
       "grade": "C",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_return_pct": 0.8177008177008177,
       "outcome_exit_date": null
     },
     {
@@ -128,7 +228,7 @@
       "grade": "B",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 2.369439071566731,
+      "outcome_return_pct": 1.6489408924685687,
       "outcome_exit_date": null
     },
     {
