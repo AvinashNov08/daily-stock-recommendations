@@ -20,7 +20,7 @@
       "reason": "Healthy structure\nMomentum not yet confirming",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_return_pct": 0.321421128379966,
       "outcome_exit_date": null
     },
     {
@@ -35,10 +35,10 @@
       "stop_display": "₹11,502.78",
       "target_display": "₹12,394.44",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -1.7020206254716188,
+      "outcome_exit_date": "2026-08-26"
     },
     {
       "symbol": "DLF",
@@ -52,10 +52,10 @@
       "stop_display": "₹664.80",
       "target_display": "₹737.40",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -1.5301284164650408,
+      "outcome_exit_date": "2026-08-26"
     },
     {
       "symbol": "HINDALCO",
@@ -93,12 +93,12 @@
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-08-25",
+  "outcomes_as_of": "2026-08-26",
   "outcome_counts": {
-    "open": 3,
+    "open": 1,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
+    "other_closed": 2,
     "untracked": 2
   }
 }

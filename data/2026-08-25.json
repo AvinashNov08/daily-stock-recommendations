@@ -69,9 +69,9 @@
       "stop_display": "₹7,861.14",
       "target_display": "₹8,442.73",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -103,9 +103,9 @@
       "stop_display": "₹1,282.72",
       "target_display": "₹1,395.46",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -120,9 +120,9 @@
       "stop_display": "₹1,806.55",
       "target_display": "₹2,026.89",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -154,9 +154,9 @@
       "stop_display": "₹1,392.37",
       "target_display": "₹1,483.36",
       "reason": "Healthy structure\nMomentum not yet confirming",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -171,14 +171,14 @@
       "stop_display": "₹1,874.99",
       "target_display": "₹2,016.03",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-08-25",
+  "outcomes_as_of": "2026-08-26",
   "outcome_counts": {
     "open": 5,
     "target": 0,

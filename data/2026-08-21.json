@@ -69,10 +69,10 @@
       "stop_display": "₹1,020.90",
       "target_display": "₹1,104.29",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.8177008177008177,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 1.2025012025012025,
+      "outcome_exit_date": "2026-08-26"
     }
   ],
   "rejections": [
@@ -82,12 +82,12 @@
       "reason": "Trend check failed\nNo structural foundation"
     }
   ],
-  "outcomes_as_of": "2026-08-25",
+  "outcomes_as_of": "2026-08-26",
   "outcome_counts": {
-    "open": 1,
+    "open": 0,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
+    "other_closed": 1,
     "untracked": 3
   }
 }
