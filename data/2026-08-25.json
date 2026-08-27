@@ -69,10 +69,10 @@
       "stop_display": "₹7,861.14",
       "target_display": "₹8,442.73",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.8089607965152459,
+      "outcome_exit_date": "2026-08-27"
     },
     {
       "symbol": "HINDALCO",
@@ -103,10 +103,10 @@
       "stop_display": "₹1,282.72",
       "target_display": "₹1,395.46",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -0.2609992542878449,
+      "outcome_exit_date": "2026-08-27"
     },
     {
       "symbol": "OBEROIRLTY",
@@ -120,10 +120,10 @@
       "stop_display": "₹1,806.55",
       "target_display": "₹2,026.89",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.1550815194685829,
+      "outcome_exit_date": "2026-08-27"
     },
     {
       "symbol": "SBIN",
@@ -156,7 +156,7 @@
       "reason": "Healthy structure\nMomentum not yet confirming",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_return_pct": 0.9090909090909091,
       "outcome_exit_date": null
     },
     {
@@ -171,19 +171,19 @@
       "stop_display": "₹1,874.99",
       "target_display": "₹2,016.03",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.7265095460976573,
+      "outcome_exit_date": "2026-08-27"
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-08-26",
+  "outcomes_as_of": "2026-08-27",
   "outcome_counts": {
-    "open": 5,
+    "open": 1,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
+    "other_closed": 4,
     "untracked": 5
   }
 }
