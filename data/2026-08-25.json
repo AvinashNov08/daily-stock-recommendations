@@ -154,10 +154,10 @@
       "stop_display": "₹1,392.37",
       "target_display": "₹1,483.36",
       "reason": "Healthy structure\nMomentum not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.9090909090909091,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -0.5034930889423077,
+      "outcome_exit_date": "2026-08-28"
     },
     {
       "symbol": "SUNPHARMA",
@@ -178,12 +178,12 @@
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-08-27",
+  "outcomes_as_of": "2026-08-28",
   "outcome_counts": {
-    "open": 1,
+    "open": 0,
     "target": 0,
     "stop": 0,
-    "other_closed": 4,
+    "other_closed": 5,
     "untracked": 5
   }
 }

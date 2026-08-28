@@ -35,10 +35,10 @@
       "stop_display": "₹11,425.58",
       "target_display": "₹12,320.84",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 1.621160409556314,
+      "outcome_exit_date": "2026-08-28"
     },
     {
       "symbol": "HINDALCO",
@@ -86,10 +86,10 @@
       "stop_display": "₹1,025.02",
       "target_display": "₹1,105.97",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.4410754126237485,
+      "outcome_exit_date": "2026-08-28"
     },
     {
       "symbol": "TECHM",
@@ -103,10 +103,10 @@
       "stop_display": "₹1,562.00",
       "target_display": "₹1,589.00",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 3.5268154204455837,
+      "outcome_exit_date": "2026-08-28"
     },
     {
       "symbol": "NESTLEIND",
@@ -120,19 +120,19 @@
       "stop_display": "₹1,448.30",
       "target_display": "₹1,457.90",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.3172396955818966,
+      "outcome_exit_date": "2026-08-28"
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-08-27",
+  "outcomes_as_of": "2026-08-28",
   "outcome_counts": {
-    "open": 4,
+    "open": 0,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
+    "other_closed": 4,
     "untracked": 3
   }
 }

@@ -52,9 +52,9 @@
       "stop_display": "₹652.40",
       "target_display": "₹723.66",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -69,9 +69,9 @@
       "stop_display": "₹986.87",
       "target_display": "₹1,098.26",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -127,7 +127,7 @@
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-08-27",
+  "outcomes_as_of": "2026-08-28",
   "outcome_counts": {
     "open": 2,
     "target": 0,
