@@ -52,10 +52,10 @@
       "stop_display": "₹652.40",
       "target_display": "₹723.66",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 1.6548985292753722,
+      "outcome_exit_date": "2026-08-31"
     },
     {
       "symbol": "HINDALCO",
@@ -69,10 +69,10 @@
       "stop_display": "₹986.87",
       "target_display": "₹1,098.26",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -2.1158677164509334,
+      "outcome_exit_date": "2026-08-31"
     },
     {
       "symbol": "ICICIBANK",
@@ -127,12 +127,12 @@
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-08-28",
+  "outcomes_as_of": "2026-08-31",
   "outcome_counts": {
-    "open": 2,
+    "open": 0,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
+    "other_closed": 2,
     "untracked": 5
   }
 }

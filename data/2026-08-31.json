@@ -21,11 +21,7 @@
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1717.0,
-      "last_close_date": "2026-08-31",
-      "last_close_display": "₹1,717.00",
-      "yahoo_ticker": "AUROPHARMA.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "BAJAJ-AUTO",
@@ -42,11 +38,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 12130.0,
-      "last_close_date": "2026-08-31",
-      "last_close_display": "₹12,130.00",
-      "yahoo_ticker": "BAJAJ-AUTO.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "DLF",
@@ -63,11 +55,7 @@
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 691.0499877929688,
-      "last_close_date": "2026-08-31",
-      "last_close_display": "₹691.05",
-      "yahoo_ticker": "DLF.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "HINDALCO",
@@ -84,11 +72,7 @@
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1015.4500122070312,
-      "last_close_date": "2026-08-31",
-      "last_close_display": "₹1,015.45",
-      "yahoo_ticker": "HINDALCO.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "SBIN",
@@ -105,11 +89,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1060.0,
-      "last_close_date": "2026-08-31",
-      "last_close_display": "₹1,060.00",
-      "yahoo_ticker": "SBIN.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "NESTLEIND",
@@ -126,11 +106,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1496.5,
-      "last_close_date": "2026-08-31",
-      "last_close_display": "₹1,496.50",
-      "yahoo_ticker": "NESTLEIND.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "TECHM",
@@ -147,11 +123,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1628.0,
-      "last_close_date": "2026-08-31",
-      "last_close_display": "₹1,628.00",
-      "yahoo_ticker": "TECHM.NS"
+      "outcome_exit_date": null
     }
   ],
   "rejections": [],
@@ -162,7 +134,5 @@
     "stop": 0,
     "other_closed": 0,
     "untracked": 4
-  },
-  "product": "Daily Recommendation Center",
-  "human_date": "August 31, 2026"
+  }
 }

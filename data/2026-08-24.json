@@ -18,10 +18,10 @@
       "stop_display": "₹1,554.42",
       "target_display": "₹1,715.15",
       "reason": "Healthy structure\nMomentum not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 1.699839236617652,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Target Hit",
+      "outcome_return_pct": 6.01769288874932,
+      "outcome_exit_date": "2026-08-31"
     },
     {
       "symbol": "BAJAJ-AUTO",
@@ -93,10 +93,10 @@
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-08-28",
+  "outcomes_as_of": "2026-08-31",
   "outcome_counts": {
-    "open": 1,
-    "target": 0,
+    "open": 0,
+    "target": 1,
     "stop": 0,
     "other_closed": 2,
     "untracked": 2
