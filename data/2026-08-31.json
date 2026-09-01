@@ -18,9 +18,9 @@
       "stop_display": "₹1,660.34",
       "target_display": "₹1,830.33",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -52,9 +52,9 @@
       "stop_display": "₹666.63",
       "target_display": "₹739.89",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -69,9 +69,9 @@
       "stop_display": "₹993.10",
       "target_display": "₹1,060.15",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -127,7 +127,7 @@
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-08-31",
+  "outcomes_as_of": "2026-09-01",
   "outcome_counts": {
     "open": 3,
     "target": 0,

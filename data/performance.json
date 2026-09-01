@@ -1,24 +1,94 @@
 {
   "product": "Daily Recommendation Center",
-  "as_of_date": "2026-08-31",
+  "as_of_date": "2026-09-01",
   "summary": {
-    "recommendations": 94,
-    "wins": 17,
-    "losses": 20,
-    "still_open": 7,
-    "hit_rate": 0.4595,
-    "average_return": 0.0294,
-    "untracked": 49
+    "recommendations": 101,
+    "wins": 18,
+    "losses": 22,
+    "still_open": 8,
+    "hit_rate": 0.45,
+    "average_return": -0.1115,
+    "untracked": 52
   },
   "rows": [
     {
-      "as_of_date": "2026-08-31",
+      "as_of_date": "2026-09-01",
       "symbol": "AUROPHARMA",
       "sector": "Pharma",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-01",
+      "symbol": "BAJAJ-AUTO",
+      "sector": "Auto",
+      "grade": "B",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-01",
+      "symbol": "DLF",
+      "sector": "Realty",
+      "grade": "B",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-01",
+      "symbol": "JSWSTEEL",
+      "sector": "Metal",
+      "grade": "C",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-01",
+      "symbol": "ICICIBANK",
+      "sector": "Banking",
       "grade": "B",
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-01",
+      "symbol": "TECHM",
+      "sector": "IT",
+      "grade": "B",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-01",
+      "symbol": "NESTLEIND",
+      "sector": "FMCG",
+      "grade": "C",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-08-31",
+      "symbol": "AUROPHARMA",
+      "sector": "Pharma",
+      "grade": "B",
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -36,9 +106,9 @@
       "symbol": "DLF",
       "sector": "Realty",
       "grade": "B",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -46,9 +116,9 @@
       "symbol": "HINDALCO",
       "sector": "Metal",
       "grade": "B",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -98,7 +168,7 @@
       "grade": "B",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_return_pct": 1.9043693322341304,
       "outcome_exit_date": null
     },
     {
@@ -126,30 +196,30 @@
       "symbol": "SBIN",
       "sector": "Banking",
       "grade": "C",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -2.405660377358491,
+      "outcome_exit_date": "2026-09-01"
     },
     {
       "as_of_date": "2026-08-28",
       "symbol": "TECHM",
       "sector": "IT",
       "grade": "C",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.6142506142506142,
+      "outcome_exit_date": "2026-09-01"
     },
     {
       "as_of_date": "2026-08-28",
       "symbol": "NESTLEIND",
       "sector": "FMCG",
       "grade": "C",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -3.8957600286084193,
+      "outcome_exit_date": "2026-09-01"
     },
     {
       "as_of_date": "2026-08-27",

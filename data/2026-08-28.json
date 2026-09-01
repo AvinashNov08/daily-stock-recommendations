@@ -37,7 +37,7 @@
       "reason": "Trend continuation\nPullback not yet confirming",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_return_pct": 1.9043693322341304,
       "outcome_exit_date": null
     },
     {
@@ -86,10 +86,10 @@
       "stop_display": "₹1,030.90",
       "target_display": "₹1,080.70",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -2.405660377358491,
+      "outcome_exit_date": "2026-09-01"
     },
     {
       "symbol": "TECHM",
@@ -103,10 +103,10 @@
       "stop_display": "₹1,584.92",
       "target_display": "₹1,752.85",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.6142506142506142,
+      "outcome_exit_date": "2026-09-01"
     },
     {
       "symbol": "NESTLEIND",
@@ -120,19 +120,19 @@
       "stop_display": "₹1,438.00",
       "target_display": "₹1,487.80",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -3.8957600286084193,
+      "outcome_exit_date": "2026-09-01"
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-08-31",
+  "outcomes_as_of": "2026-09-01",
   "outcome_counts": {
-    "open": 4,
+    "open": 1,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
+    "other_closed": 3,
     "untracked": 3
   }
 }
