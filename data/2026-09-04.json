@@ -1,28 +1,11 @@
 {
-  "as_of_date": "2026-09-03",
+  "as_of_date": "2026-09-04",
   "market_regime": "BEAR",
   "candidates_scanned": 7,
   "recommended_count": 7,
   "rejected_count": 0,
-  "generated_at_label": "2026-09-13 18:16 IST",
+  "generated_at_label": "2026-09-13 18:23 IST",
   "recommendations": [
-    {
-      "symbol": "AUROPHARMA",
-      "sector": "Pharma",
-      "grade": "B",
-      "confidence": "Medium",
-      "entry": null,
-      "stop": null,
-      "target": null,
-      "entry_display": "—",
-      "stop_display": "—",
-      "target_display": "—",
-      "reason": "Healthy structure\nMomentum not yet confirming",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
-    },
     {
       "symbol": "BAJAJ-AUTO",
       "sector": "Auto",
@@ -43,15 +26,15 @@
     {
       "symbol": "DLF",
       "sector": "Realty",
-      "grade": "B",
-      "confidence": "Medium",
+      "grade": "C",
+      "confidence": "Low",
       "entry": null,
       "stop": null,
       "target": null,
       "entry_display": "—",
       "stop_display": "—",
       "target_display": "—",
-      "reason": "Trend continuation\nPullback not yet confirming",
+      "reason": "Mixed confirmation\nSetup not fully aligned",
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
@@ -69,8 +52,25 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "symbol": "AUROPHARMA",
+      "sector": "Pharma",
+      "grade": "C",
+      "confidence": "Low",
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "entry_display": "—",
+      "stop_display": "—",
+      "target_display": "—",
+      "reason": "Mixed confirmation\nSetup not fully aligned",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
       "outcome_return_pct": null,
       "outcome_exit_date": null
     },
@@ -103,8 +103,8 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
       "outcome_return_pct": null,
       "outcome_exit_date": null
     },
@@ -120,8 +120,8 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
       "outcome_return_pct": null,
       "outcome_exit_date": null
     }
@@ -129,10 +129,10 @@
   "rejections": [],
   "outcomes_as_of": "2026-09-03",
   "outcome_counts": {
-    "open": 3,
+    "open": 0,
     "target": 0,
     "stop": 0,
     "other_closed": 0,
-    "untracked": 4
+    "untracked": 7
   }
 }

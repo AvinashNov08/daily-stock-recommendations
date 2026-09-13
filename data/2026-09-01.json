@@ -69,10 +69,10 @@
       "stop_display": "₹1,275.75",
       "target_display": "₹1,388.99",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.1531393568147014,
+      "outcome_exit_date": "2026-09-03"
     },
     {
       "symbol": "ICICIBANK",
@@ -88,7 +88,7 @@
       "reason": "Healthy structure\nMomentum not yet confirming",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_return_pct": 0.24535576586049773,
       "outcome_exit_date": null
     },
     {
@@ -103,10 +103,10 @@
       "stop_display": "₹1,582.79",
       "target_display": "₹1,748.42",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -1.5403573629081946,
+      "outcome_exit_date": "2026-09-03"
     },
     {
       "symbol": "NESTLEIND",
@@ -120,19 +120,19 @@
       "stop_display": "₹1,427.60",
       "target_display": "₹1,459.40",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -0.631578947368421,
+      "outcome_exit_date": "2026-09-03"
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-09-02",
+  "outcomes_as_of": "2026-09-03",
   "outcome_counts": {
-    "open": 4,
+    "open": 1,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
+    "other_closed": 3,
     "untracked": 3
   }
 }
