@@ -20,7 +20,7 @@
       "reason": "Healthy structure\nMomentum not yet confirming",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.9649988570586729,
+      "outcome_return_pct": 3.340862978109952,
       "outcome_exit_date": null
     },
     {
@@ -52,10 +52,10 @@
       "stop_display": "₹647.44",
       "target_display": "₹725.77",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.03667571202904258,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -0.9609108183859213,
+      "outcome_exit_date": "2026-09-08"
     },
     {
       "symbol": "NMDC",
@@ -69,10 +69,10 @@
       "stop_display": "₹82.57",
       "target_display": "₹92.12",
       "reason": "Healthy structure\nMomentum not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.6057661147959683,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -0.40385313864527916,
+      "outcome_exit_date": "2026-09-07"
     },
     {
       "symbol": "KOTAKBANK",
@@ -86,10 +86,10 @@
       "stop_display": "₹412.13",
       "target_display": "₹446.23",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.7954425150339743,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.22557573805040967,
+      "outcome_exit_date": "2026-09-07"
     },
     {
       "symbol": "TECHM",
@@ -127,12 +127,12 @@
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-09-04",
+  "outcomes_as_of": "2026-09-08",
   "outcome_counts": {
-    "open": 4,
+    "open": 1,
     "target": 0,
     "stop": 0,
-    "other_closed": 1,
+    "other_closed": 4,
     "untracked": 2
   }
 }

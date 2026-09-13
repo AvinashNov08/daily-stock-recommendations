@@ -18,10 +18,10 @@
       "stop_display": "₹11,572.28",
       "target_display": "₹12,612.43",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.6779661016949152,
+      "outcome_exit_date": "2026-09-08"
     },
     {
       "symbol": "DLF",
@@ -127,12 +127,12 @@
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-09-04",
+  "outcomes_as_of": "2026-09-08",
   "outcome_counts": {
-    "open": 1,
+    "open": 0,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
+    "other_closed": 1,
     "untracked": 6
   }
 }
