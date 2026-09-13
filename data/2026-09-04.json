@@ -18,9 +18,9 @@
       "stop_display": "₹11,572.28",
       "target_display": "₹12,612.43",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -127,12 +127,12 @@
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-09-03",
+  "outcomes_as_of": "2026-09-07",
   "outcome_counts": {
-    "open": 0,
+    "open": 1,
     "target": 0,
     "stop": 0,
     "other_closed": 0,
-    "untracked": 7
+    "untracked": 6
   }
 }

@@ -69,8 +69,8 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
       "outcome_return_pct": null,
       "outcome_exit_date": null
     },
@@ -86,8 +86,8 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
       "outcome_return_pct": null,
       "outcome_exit_date": null
     },
@@ -103,8 +103,8 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
       "outcome_return_pct": null,
       "outcome_exit_date": null
     }
@@ -116,12 +116,12 @@
       "reason": "Trend check failed\nNo structural foundation"
     }
   ],
-  "outcomes_as_of": "2026-09-03",
+  "outcomes_as_of": "2026-09-07",
   "outcome_counts": {
-    "open": 0,
+    "open": 3,
     "target": 0,
     "stop": 0,
     "other_closed": 0,
-    "untracked": 6
+    "untracked": 3
   }
 }

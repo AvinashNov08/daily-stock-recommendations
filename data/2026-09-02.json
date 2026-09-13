@@ -20,7 +20,7 @@
       "reason": "Healthy structure\nMomentum not yet confirming",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_return_pct": 0.9649988570586729,
       "outcome_exit_date": null
     },
     {
@@ -35,10 +35,10 @@
       "stop_display": "₹11,778.05",
       "target_display": "₹12,833.90",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -0.008389261744966443,
+      "outcome_exit_date": "2026-09-04"
     },
     {
       "symbol": "DLF",
@@ -54,7 +54,7 @@
       "reason": "Trend continuation\nPullback not yet confirming",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_return_pct": 0.03667571202904258,
       "outcome_exit_date": null
     },
     {
@@ -69,10 +69,10 @@
       "stop_display": "₹82.57",
       "target_display": "₹92.12",
       "reason": "Healthy structure\nMomentum not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -0.40385313864527916,
+      "outcome_exit_date": "2026-09-07"
     },
     {
       "symbol": "KOTAKBANK",
@@ -86,10 +86,10 @@
       "stop_display": "₹412.13",
       "target_display": "₹446.23",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.22557573805040967,
+      "outcome_exit_date": "2026-09-07"
     },
     {
       "symbol": "TECHM",
@@ -127,12 +127,12 @@
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-09-03",
+  "outcomes_as_of": "2026-09-07",
   "outcome_counts": {
-    "open": 5,
+    "open": 2,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
+    "other_closed": 3,
     "untracked": 2
   }
 }
