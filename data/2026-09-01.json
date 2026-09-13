@@ -86,10 +86,10 @@
       "stop_display": "₹1,404.11",
       "target_display": "₹1,505.78",
       "reason": "Healthy structure\nMomentum not yet confirming",
-      "outcome_status": "closed",
-      "outcome_label": "Sold (lifecycle)",
-      "outcome_return_pct": -0.2313388593147564,
-      "outcome_exit_date": "2026-09-04"
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.24535576586049773,
+      "outcome_exit_date": null
     },
     {
       "symbol": "TECHM",
@@ -127,12 +127,12 @@
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-09-04",
+  "outcomes_as_of": "2026-09-03",
   "outcome_counts": {
-    "open": 0,
+    "open": 1,
     "target": 0,
     "stop": 0,
-    "other_closed": 4,
+    "other_closed": 3,
     "untracked": 3
   }
 }

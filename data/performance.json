@@ -1,14 +1,14 @@
 {
   "product": "Daily Recommendation Center",
-  "as_of_date": "2026-09-07",
+  "as_of_date": "2026-09-04",
   "summary": {
     "recommendations": 128,
     "wins": 19,
-    "losses": 29,
-    "still_open": 8,
-    "hit_rate": 0.3958,
-    "average_return": -0.1923,
-    "untracked": 70
+    "losses": 27,
+    "still_open": 9,
+    "hit_rate": 0.413,
+    "average_return": -0.1953,
+    "untracked": 71
   },
   "rows": [
     {
@@ -76,112 +76,112 @@
       "symbol": "BAJAJ-AUTO",
       "sector": "Auto",
       "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-04",
+      "symbol": "DLF",
+      "sector": "Realty",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-04",
+      "symbol": "JSWSTEEL",
+      "sector": "Metal",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-04",
+      "symbol": "AUROPHARMA",
+      "sector": "Pharma",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-04",
+      "symbol": "KOTAKBANK",
+      "sector": "Banking",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-04",
+      "symbol": "TECHM",
+      "sector": "IT",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-04",
+      "symbol": "NESTLEIND",
+      "sector": "FMCG",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-03",
+      "symbol": "AUROPHARMA",
+      "sector": "Pharma",
+      "grade": "B",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-03",
+      "symbol": "BAJAJ-AUTO",
+      "sector": "Auto",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-03",
+      "symbol": "DLF",
+      "sector": "Realty",
+      "grade": "B",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-03",
+      "symbol": "JSWSTEEL",
+      "sector": "Metal",
+      "grade": "C",
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
       "outcome_exit_date": null
     },
     {
-      "as_of_date": "2026-09-04",
-      "symbol": "DLF",
-      "sector": "Realty",
-      "grade": "C",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
-    },
-    {
-      "as_of_date": "2026-09-04",
-      "symbol": "JSWSTEEL",
-      "sector": "Metal",
-      "grade": "C",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
-    },
-    {
-      "as_of_date": "2026-09-04",
-      "symbol": "AUROPHARMA",
-      "sector": "Pharma",
-      "grade": "C",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
-    },
-    {
-      "as_of_date": "2026-09-04",
-      "symbol": "KOTAKBANK",
-      "sector": "Banking",
-      "grade": "C",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
-    },
-    {
-      "as_of_date": "2026-09-04",
-      "symbol": "TECHM",
-      "sector": "IT",
-      "grade": "C",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
-    },
-    {
-      "as_of_date": "2026-09-04",
-      "symbol": "NESTLEIND",
-      "sector": "FMCG",
-      "grade": "C",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
-    },
-    {
-      "as_of_date": "2026-09-03",
-      "symbol": "AUROPHARMA",
-      "sector": "Pharma",
-      "grade": "B",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
-    },
-    {
-      "as_of_date": "2026-09-03",
-      "symbol": "BAJAJ-AUTO",
-      "sector": "Auto",
-      "grade": "C",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
-    },
-    {
-      "as_of_date": "2026-09-03",
-      "symbol": "DLF",
-      "sector": "Realty",
-      "grade": "B",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
-    },
-    {
-      "as_of_date": "2026-09-03",
-      "symbol": "JSWSTEEL",
-      "sector": "Metal",
-      "grade": "C",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
-    },
-    {
       "as_of_date": "2026-09-03",
       "symbol": "KOTAKBANK",
       "sector": "Banking",
@@ -196,9 +196,9 @@
       "symbol": "TECHM",
       "sector": "IT",
       "grade": "C",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
       "outcome_exit_date": null
     },
     {
@@ -206,9 +206,9 @@
       "symbol": "NESTLEIND",
       "sector": "FMCG",
       "grade": "C",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
       "outcome_exit_date": null
     },
     {
@@ -218,7 +218,7 @@
       "grade": "B",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.9649988570586729,
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -226,10 +226,10 @@
       "symbol": "BAJAJ-AUTO",
       "sector": "Auto",
       "grade": "B",
-      "outcome_status": "closed",
-      "outcome_label": "Sold (lifecycle)",
-      "outcome_return_pct": -0.008389261744966443,
-      "outcome_exit_date": "2026-09-04"
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
+      "outcome_exit_date": null
     },
     {
       "as_of_date": "2026-09-02",
@@ -238,7 +238,7 @@
       "grade": "B",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.03667571202904258,
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -248,7 +248,7 @@
       "grade": "B",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.6057661147959683,
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -258,7 +258,7 @@
       "grade": "B",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.7954425150339743,
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -326,10 +326,10 @@
       "symbol": "ICICIBANK",
       "sector": "Banking",
       "grade": "B",
-      "outcome_status": "closed",
-      "outcome_label": "Sold (lifecycle)",
-      "outcome_return_pct": -0.2313388593147564,
-      "outcome_exit_date": "2026-09-04"
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.24535576586049773,
+      "outcome_exit_date": null
     },
     {
       "as_of_date": "2026-09-01",
