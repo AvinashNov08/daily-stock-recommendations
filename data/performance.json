@@ -1,17 +1,77 @@
 {
   "product": "Daily Recommendation Center",
-  "as_of_date": "2026-09-09",
+  "as_of_date": "2026-09-10",
   "summary": {
-    "recommendations": 139,
-    "wins": 21,
-    "losses": 34,
-    "still_open": 6,
-    "hit_rate": 0.3818,
-    "average_return": -0.2589,
-    "untracked": 76
+    "recommendations": 145,
+    "wins": 22,
+    "losses": 36,
+    "still_open": 5,
+    "hit_rate": 0.3793,
+    "average_return": -0.3051,
+    "untracked": 80
   },
   "rows": [
     {
+      "as_of_date": "2026-09-10",
+      "symbol": "BAJAJ-AUTO",
+      "sector": "Auto",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-10",
+      "symbol": "JSWSTEEL",
+      "sector": "Metal",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-10",
+      "symbol": "AUROPHARMA",
+      "sector": "Pharma",
+      "grade": "B",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-10",
+      "symbol": "KOTAKBANK",
+      "sector": "Banking",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-10",
+      "symbol": "DLF",
+      "sector": "Realty",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-10",
+      "symbol": "TECHM",
+      "sector": "IT",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
       "as_of_date": "2026-09-09",
       "symbol": "AUROPHARMA",
       "sector": "Pharma",
@@ -36,8 +96,8 @@
       "symbol": "JSWSTEEL",
       "sector": "Metal",
       "grade": "B",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
       "outcome_return_pct": null,
       "outcome_exit_date": null
     },
@@ -56,8 +116,8 @@
       "symbol": "KOTAKBANK",
       "sector": "Banking",
       "grade": "B",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
       "outcome_return_pct": null,
       "outcome_exit_date": null
     },
@@ -76,9 +136,9 @@
       "symbol": "BAJAJ-AUTO",
       "sector": "Auto",
       "grade": "B",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -86,9 +146,9 @@
       "symbol": "DLF",
       "sector": "Realty",
       "grade": "B",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -156,30 +216,30 @@
       "symbol": "JSWSTEEL",
       "sector": "Metal",
       "grade": "C",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.9789524931681842,
+      "outcome_exit_date": "2026-09-09"
     },
     {
       "as_of_date": "2026-09-07",
       "symbol": "KOTAKBANK",
       "sector": "Banking",
       "grade": "C",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -1.2522361359570662,
+      "outcome_exit_date": "2026-09-09"
     },
     {
       "as_of_date": "2026-09-07",
       "symbol": "TECHM",
       "sector": "IT",
       "grade": "C",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -3.27132777421424,
+      "outcome_exit_date": "2026-09-09"
     },
     {
       "as_of_date": "2026-09-04",
@@ -328,7 +388,7 @@
       "grade": "B",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 3.340862978109952,
+      "outcome_return_pct": 3.762289974279719,
       "outcome_exit_date": null
     },
     {

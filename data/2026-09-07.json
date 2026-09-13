@@ -69,10 +69,10 @@
       "stop_display": "₹1,263.17",
       "target_display": "₹1,379.66",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.9789524931681842,
+      "outcome_exit_date": "2026-09-09"
     },
     {
       "symbol": "KOTAKBANK",
@@ -86,10 +86,10 @@
       "stop_display": "₹411.49",
       "target_display": "₹443.32",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -1.2522361359570662,
+      "outcome_exit_date": "2026-09-09"
     },
     {
       "symbol": "TECHM",
@@ -103,10 +103,10 @@
       "stop_display": "₹1,545.30",
       "target_display": "₹1,601.40",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -3.27132777421424,
+      "outcome_exit_date": "2026-09-09"
     }
   ],
   "rejections": [
@@ -116,12 +116,12 @@
       "reason": "Trend check failed\nNo structural foundation"
     }
   ],
-  "outcomes_as_of": "2026-09-08",
+  "outcomes_as_of": "2026-09-09",
   "outcome_counts": {
-    "open": 3,
+    "open": 0,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
+    "other_closed": 3,
     "untracked": 3
   }
 }
