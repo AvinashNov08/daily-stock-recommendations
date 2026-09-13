@@ -18,9 +18,9 @@
       "stop_display": "₹11,572.28",
       "target_display": "₹12,612.43",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
       "outcome_exit_date": null
     },
     {
@@ -127,7 +127,7 @@
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-09-07",
+  "outcomes_as_of": "2026-09-04",
   "outcome_counts": {
     "open": 1,
     "target": 0,

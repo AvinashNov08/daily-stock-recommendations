@@ -17,8 +17,8 @@
       "month_label": "September 2026",
       "recommended_count": 6,
       "closed_count": 0,
-      "open_count": 3,
-      "untracked_count": 3,
+      "open_count": 0,
+      "untracked_count": 6,
       "href": "history/2026-09-07.html"
     },
     {
@@ -36,8 +36,8 @@
       "human_date": "September 3, 2026",
       "month_label": "September 2026",
       "recommended_count": 7,
-      "closed_count": 3,
-      "open_count": 0,
+      "closed_count": 0,
+      "open_count": 3,
       "untracked_count": 4,
       "href": "history/2026-09-03.html"
     },
@@ -46,8 +46,8 @@
       "human_date": "September 2, 2026",
       "month_label": "September 2026",
       "recommended_count": 7,
-      "closed_count": 3,
-      "open_count": 2,
+      "closed_count": 1,
+      "open_count": 4,
       "untracked_count": 2,
       "href": "history/2026-09-02.html"
     },
