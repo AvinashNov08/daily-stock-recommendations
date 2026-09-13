@@ -1,23 +1,23 @@
 {
-  "as_of_date": "2026-09-08",
+  "as_of_date": "2026-09-11",
   "market_regime": "BEAR",
   "candidates_scanned": 7,
-  "recommended_count": 6,
-  "rejected_count": 1,
-  "generated_at_label": "2026-09-13 18:39 IST",
+  "recommended_count": 5,
+  "rejected_count": 2,
+  "generated_at_label": "2026-09-13 19:02 IST",
   "recommendations": [
     {
       "symbol": "AUROPHARMA",
       "sector": "Pharma",
-      "grade": "B",
-      "confidence": "Medium",
+      "grade": "C",
+      "confidence": "Low",
       "entry": null,
       "stop": null,
       "target": null,
       "entry_display": "—",
       "stop_display": "—",
       "target_display": "—",
-      "reason": "Trend continuation\nPullback not yet confirming",
+      "reason": "Mixed confirmation\nSetup not fully aligned",
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
@@ -26,40 +26,6 @@
     {
       "symbol": "BAJAJ-AUTO",
       "sector": "Auto",
-      "grade": "B",
-      "confidence": "Medium",
-      "entry": null,
-      "stop": null,
-      "target": null,
-      "entry_display": "—",
-      "stop_display": "—",
-      "target_display": "—",
-      "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "closed",
-      "outcome_label": "Sold (lifecycle)",
-      "outcome_return_pct": -0.18659881255301103,
-      "outcome_exit_date": "2026-09-10"
-    },
-    {
-      "symbol": "DLF",
-      "sector": "Realty",
-      "grade": "B",
-      "confidence": "Medium",
-      "entry": null,
-      "stop": null,
-      "target": null,
-      "entry_display": "—",
-      "stop_display": "—",
-      "target_display": "—",
-      "reason": "Healthy structure\nMomentum not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.11448634223031097,
-      "outcome_exit_date": null
-    },
-    {
-      "symbol": "JSWSTEEL",
-      "sector": "Metal",
       "grade": "B",
       "confidence": "Medium",
       "entry": null,
@@ -77,15 +43,32 @@
     {
       "symbol": "KOTAKBANK",
       "sector": "Banking",
-      "grade": "B",
-      "confidence": "Medium",
+      "grade": "C",
+      "confidence": "Low",
       "entry": null,
       "stop": null,
       "target": null,
       "entry_display": "—",
       "stop_display": "—",
       "target_display": "—",
-      "reason": "Trend continuation\nPullback not yet confirming",
+      "reason": "Mixed confirmation\nSetup not fully aligned",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "sector": "Metal",
+      "grade": "C",
+      "confidence": "Low",
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "entry_display": "—",
+      "stop_display": "—",
+      "target_display": "—",
+      "reason": "Mixed confirmation\nSetup not fully aligned",
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
@@ -111,6 +94,11 @@
   ],
   "rejections": [
     {
+      "symbol": "PHOENIXLTD",
+      "sector": "Realty",
+      "reason": "Trend check failed\nNo structural foundation"
+    },
+    {
       "symbol": "NESTLEIND",
       "sector": "FMCG",
       "reason": "Trend check failed\nNo structural foundation"
@@ -118,10 +106,10 @@
   ],
   "outcomes_as_of": "2026-09-10",
   "outcome_counts": {
-    "open": 1,
+    "open": 0,
     "target": 0,
     "stop": 0,
-    "other_closed": 1,
-    "untracked": 4
+    "other_closed": 0,
+    "untracked": 5
   }
 }

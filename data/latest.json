@@ -1,65 +1,23 @@
 {
-  "as_of_date": "2026-09-10",
+  "as_of_date": "2026-09-11",
   "market_regime": "BEAR",
   "candidates_scanned": 7,
-  "recommended_count": 6,
-  "rejected_count": 1,
-  "generated_at_label": "2026-09-13 18:54 IST",
+  "recommended_count": 5,
+  "rejected_count": 2,
+  "generated_at_label": "2026-09-13 19:02 IST",
   "recommendations": [
-    {
-      "symbol": "BAJAJ-AUTO",
-      "sector": "Auto",
-      "grade": "C",
-      "confidence": "Low",
-      "entry": null,
-      "stop": null,
-      "target": null,
-      "entry_display": "—",
-      "stop_display": "—",
-      "target_display": "—",
-      "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 11678.0,
-      "last_close_date": "2026-09-11",
-      "last_close_display": "₹11,678.00",
-      "yahoo_ticker": "BAJAJ-AUTO.NS"
-    },
-    {
-      "symbol": "JSWSTEEL",
-      "sector": "Metal",
-      "grade": "C",
-      "confidence": "Low",
-      "entry": null,
-      "stop": null,
-      "target": null,
-      "entry_display": "—",
-      "stop_display": "—",
-      "target_display": "—",
-      "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1265.0,
-      "last_close_date": "2026-09-11",
-      "last_close_display": "₹1,265.00",
-      "yahoo_ticker": "JSWSTEEL.NS"
-    },
     {
       "symbol": "AUROPHARMA",
       "sector": "Pharma",
-      "grade": "B",
-      "confidence": "Medium",
+      "grade": "C",
+      "confidence": "Low",
       "entry": null,
       "stop": null,
       "target": null,
       "entry_display": "—",
       "stop_display": "—",
       "target_display": "—",
-      "reason": "Trend continuation\nPullback not yet confirming",
+      "reason": "Mixed confirmation\nSetup not fully aligned",
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
@@ -68,6 +26,27 @@
       "last_close_date": "2026-09-11",
       "last_close_display": "₹1,679.80",
       "yahoo_ticker": "AUROPHARMA.NS"
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "sector": "Auto",
+      "grade": "B",
+      "confidence": "Medium",
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "entry_display": "—",
+      "stop_display": "—",
+      "target_display": "—",
+      "reason": "Healthy structure\nMomentum not yet confirming",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null,
+      "last_close": 11678.0,
+      "last_close_date": "2026-09-11",
+      "last_close_display": "₹11,678.00",
+      "yahoo_ticker": "BAJAJ-AUTO.NS"
     },
     {
       "symbol": "KOTAKBANK",
@@ -91,8 +70,8 @@
       "yahoo_ticker": "KOTAKBANK.NS"
     },
     {
-      "symbol": "DLF",
-      "sector": "Realty",
+      "symbol": "JSWSTEEL",
+      "sector": "Metal",
       "grade": "C",
       "confidence": "Low",
       "entry": null,
@@ -106,10 +85,10 @@
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
       "outcome_exit_date": null,
-      "last_close": 644.5,
+      "last_close": 1265.0,
       "last_close_date": "2026-09-11",
-      "last_close_display": "₹644.50",
-      "yahoo_ticker": "DLF.NS"
+      "last_close_display": "₹1,265.00",
+      "yahoo_ticker": "JSWSTEEL.NS"
     },
     {
       "symbol": "TECHM",
@@ -135,19 +114,24 @@
   ],
   "rejections": [
     {
+      "symbol": "PHOENIXLTD",
+      "sector": "Realty",
+      "reason": "Trend check failed\nNo structural foundation"
+    },
+    {
       "symbol": "NESTLEIND",
       "sector": "FMCG",
       "reason": "Trend check failed\nNo structural foundation"
     }
   ],
-  "outcomes_as_of": "2026-09-09",
+  "outcomes_as_of": "2026-09-10",
   "outcome_counts": {
     "open": 0,
     "target": 0,
     "stop": 0,
     "other_closed": 0,
-    "untracked": 6
+    "untracked": 5
   },
   "product": "Daily Recommendation Center",
-  "human_date": "September 10, 2026"
+  "human_date": "September 11, 2026"
 }

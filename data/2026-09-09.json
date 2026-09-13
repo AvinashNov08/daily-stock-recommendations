@@ -52,9 +52,9 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Healthy structure\nMomentum not yet confirming",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -86,9 +86,9 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     }
   ],
@@ -99,7 +99,7 @@
       "reason": "Trend check failed\nNo structural foundation"
     }
   ],
-  "outcomes_as_of": "2026-09-09",
+  "outcomes_as_of": "2026-09-10",
   "outcome_counts": {
     "open": 2,
     "target": 0,

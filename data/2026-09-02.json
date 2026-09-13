@@ -20,7 +20,7 @@
       "reason": "Healthy structure\nMomentum not yet confirming",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 3.762289974279719,
+      "outcome_return_pct": 1.8994670896270283,
       "outcome_exit_date": null
     },
     {
@@ -127,7 +127,7 @@
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-09-09",
+  "outcomes_as_of": "2026-09-10",
   "outcome_counts": {
     "open": 1,
     "target": 0,
