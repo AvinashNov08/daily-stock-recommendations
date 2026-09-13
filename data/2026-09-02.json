@@ -20,7 +20,7 @@
       "reason": "Healthy structure\nMomentum not yet confirming",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_return_pct": 0.9649988570586729,
       "outcome_exit_date": null
     },
     {
@@ -35,10 +35,10 @@
       "stop_display": "₹11,778.05",
       "target_display": "₹12,833.90",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -0.008389261744966443,
+      "outcome_exit_date": "2026-09-04"
     },
     {
       "symbol": "DLF",
@@ -54,7 +54,7 @@
       "reason": "Trend continuation\nPullback not yet confirming",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_return_pct": 0.03667571202904258,
       "outcome_exit_date": null
     },
     {
@@ -71,7 +71,7 @@
       "reason": "Healthy structure\nMomentum not yet confirming",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_return_pct": 0.6057661147959683,
       "outcome_exit_date": null
     },
     {
@@ -88,7 +88,7 @@
       "reason": "Trend continuation\nPullback not yet confirming",
       "outcome_status": "open",
       "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_return_pct": 0.7954425150339743,
       "outcome_exit_date": null
     },
     {
@@ -127,12 +127,12 @@
     }
   ],
   "rejections": [],
-  "outcomes_as_of": "2026-09-03",
+  "outcomes_as_of": "2026-09-04",
   "outcome_counts": {
-    "open": 5,
+    "open": 4,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
+    "other_closed": 1,
     "untracked": 2
   }
 }
