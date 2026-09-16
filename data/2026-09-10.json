@@ -18,10 +18,10 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -2.1750299708854257,
+      "outcome_exit_date": "2026-09-15"
     },
     {
       "symbol": "JSWSTEEL",
@@ -103,10 +103,10 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 2.2647647251176184,
+      "outcome_exit_date": "2026-09-15"
     }
   ],
   "rejections": [
@@ -116,12 +116,12 @@
       "reason": "Trend check failed\nNo structural foundation"
     }
   ],
-  "outcomes_as_of": "2026-09-11",
+  "outcomes_as_of": "2026-09-15",
   "outcome_counts": {
-    "open": 2,
+    "open": 0,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
+    "other_closed": 2,
     "untracked": 4
   }
 }

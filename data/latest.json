@@ -1,10 +1,10 @@
 {
-  "as_of_date": "2026-09-15",
+  "as_of_date": "2026-09-16",
   "market_regime": "BEAR",
-  "candidates_scanned": 5,
-  "recommended_count": 4,
-  "rejected_count": 1,
-  "generated_at_label": "2026-09-16 19:34 IST",
+  "candidates_scanned": 7,
+  "recommended_count": 5,
+  "rejected_count": 2,
+  "generated_at_label": "2026-09-16 19:35 IST",
   "recommendations": [
     {
       "symbol": "AUROPHARMA",
@@ -28,6 +28,27 @@
       "yahoo_ticker": "AUROPHARMA.NS"
     },
     {
+      "symbol": "BAJAJ-AUTO",
+      "sector": "Auto",
+      "grade": "B",
+      "confidence": "Medium",
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "entry_display": "—",
+      "stop_display": "—",
+      "target_display": "—",
+      "reason": "Trend continuation\nPullback not yet confirming",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null,
+      "last_close": 11593.0,
+      "last_close_date": "2026-09-16",
+      "last_close_display": "₹11,593.00",
+      "yahoo_ticker": "BAJAJ-AUTO.NS"
+    },
+    {
       "symbol": "KOTAKBANK",
       "sector": "Banking",
       "grade": "B",
@@ -49,8 +70,8 @@
       "yahoo_ticker": "KOTAKBANK.NS"
     },
     {
-      "symbol": "BAJAJ-AUTO",
-      "sector": "Auto",
+      "symbol": "JSWSTEEL",
+      "sector": "Metal",
       "grade": "C",
       "confidence": "Low",
       "entry": null,
@@ -64,23 +85,23 @@
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
       "outcome_exit_date": null,
-      "last_close": 11593.0,
+      "last_close": 1248.9000244140625,
       "last_close_date": "2026-09-16",
-      "last_close_display": "₹11,593.00",
-      "yahoo_ticker": "BAJAJ-AUTO.NS"
+      "last_close_display": "₹1,248.90",
+      "yahoo_ticker": "JSWSTEEL.NS"
     },
     {
       "symbol": "TECHM",
       "sector": "IT",
-      "grade": "B",
-      "confidence": "Medium",
+      "grade": "C",
+      "confidence": "Low",
       "entry": null,
       "stop": null,
       "target": null,
       "entry_display": "—",
       "stop_display": "—",
       "target_display": "—",
-      "reason": "Trend continuation\nPullback not yet confirming",
+      "reason": "Mixed confirmation\nSetup not fully aligned",
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
@@ -93,19 +114,24 @@
   ],
   "rejections": [
     {
-      "symbol": "PHOENIXLTD",
+      "symbol": "NESTLEIND",
+      "sector": "FMCG",
+      "reason": "Trend check failed\nNo structural foundation"
+    },
+    {
+      "symbol": "OBEROIRLTY",
       "sector": "Realty",
       "reason": "Trend check failed\nNo structural foundation"
     }
   ],
-  "outcomes_as_of": "2026-09-11",
+  "outcomes_as_of": "2026-09-15",
   "outcome_counts": {
     "open": 0,
     "target": 0,
     "stop": 0,
     "other_closed": 0,
-    "untracked": 4
+    "untracked": 5
   },
   "product": "Daily Recommendation Center",
-  "human_date": "September 15, 2026"
+  "human_date": "September 16, 2026"
 }
