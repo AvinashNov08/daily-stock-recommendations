@@ -52,10 +52,10 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Healthy structure\nMomentum not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -2.99079754601227,
+      "outcome_exit_date": "2026-09-11"
     },
     {
       "symbol": "DLF",
@@ -86,10 +86,10 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.5881676338564398,
+      "outcome_exit_date": "2026-09-11"
     }
   ],
   "rejections": [
@@ -99,12 +99,12 @@
       "reason": "Trend check failed\nNo structural foundation"
     }
   ],
-  "outcomes_as_of": "2026-09-10",
+  "outcomes_as_of": "2026-09-11",
   "outcome_counts": {
-    "open": 2,
+    "open": 0,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
+    "other_closed": 2,
     "untracked": 3
   }
 }
