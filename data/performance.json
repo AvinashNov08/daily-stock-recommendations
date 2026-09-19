@@ -1,16 +1,76 @@
 {
   "product": "Daily Recommendation Center",
-  "as_of_date": "2026-09-16",
+  "as_of_date": "2026-09-18",
   "summary": {
-    "recommendations": 160,
-    "wins": 25,
+    "recommendations": 166,
+    "wins": 26,
     "losses": 42,
-    "still_open": 5,
-    "hit_rate": 0.3731,
-    "average_return": -0.3777,
-    "untracked": 86
+    "still_open": 3,
+    "hit_rate": 0.3824,
+    "average_return": -0.3671,
+    "untracked": 93
   },
   "rows": [
+    {
+      "as_of_date": "2026-09-18",
+      "symbol": "AUROPHARMA",
+      "sector": "Pharma",
+      "grade": "B",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-18",
+      "symbol": "KOTAKBANK",
+      "sector": "Banking",
+      "grade": "B",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-18",
+      "symbol": "BAJAJ-AUTO",
+      "sector": "Auto",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-18",
+      "symbol": "JSWSTEEL",
+      "sector": "Metal",
+      "grade": "B",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-18",
+      "symbol": "DLF",
+      "sector": "Realty",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-18",
+      "symbol": "TECHM",
+      "sector": "IT",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
     {
       "as_of_date": "2026-09-16",
       "symbol": "AUROPHARMA",
@@ -36,9 +96,9 @@
       "symbol": "KOTAKBANK",
       "sector": "Banking",
       "grade": "B",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -46,9 +106,9 @@
       "symbol": "DLF",
       "sector": "Realty",
       "grade": "C",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -76,9 +136,9 @@
       "symbol": "AUROPHARMA",
       "sector": "Pharma",
       "grade": "C",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
       "outcome_exit_date": null
     },
     {
@@ -86,19 +146,19 @@
       "symbol": "KOTAKBANK",
       "sector": "Banking",
       "grade": "B",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.3614457831325301,
+      "outcome_exit_date": "2026-09-17"
     },
     {
       "as_of_date": "2026-09-15",
       "symbol": "BAJAJ-AUTO",
       "sector": "Auto",
       "grade": "C",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
       "outcome_exit_date": null
     },
     {
@@ -106,9 +166,9 @@
       "symbol": "TECHM",
       "sector": "IT",
       "grade": "B",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
       "outcome_exit_date": null
     },
     {

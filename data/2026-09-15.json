@@ -18,9 +18,9 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
       "outcome_exit_date": null
     },
     {
@@ -35,10 +35,10 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Healthy structure\nMomentum not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.3614457831325301,
+      "outcome_exit_date": "2026-09-17"
     },
     {
       "symbol": "BAJAJ-AUTO",
@@ -52,9 +52,9 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
       "outcome_exit_date": null
     },
     {
@@ -69,9 +69,9 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
       "outcome_exit_date": null
     }
   ],
@@ -82,12 +82,12 @@
       "reason": "Trend check failed\nNo structural foundation"
     }
   ],
-  "outcomes_as_of": "2026-09-16",
+  "outcomes_as_of": "2026-09-17",
   "outcome_counts": {
-    "open": 4,
+    "open": 0,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
-    "untracked": 0
+    "other_closed": 1,
+    "untracked": 3
   }
 }

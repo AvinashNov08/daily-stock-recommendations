@@ -1,23 +1,40 @@
 {
-  "as_of_date": "2026-09-09",
+  "as_of_date": "2026-09-18",
   "market_regime": "BEAR",
-  "candidates_scanned": 6,
-  "recommended_count": 5,
+  "candidates_scanned": 7,
+  "recommended_count": 6,
   "rejected_count": 1,
-  "generated_at_label": "2026-09-13 18:47 IST",
+  "generated_at_label": "2026-09-19 21:37 IST",
   "recommendations": [
     {
       "symbol": "AUROPHARMA",
       "sector": "Pharma",
-      "grade": "C",
-      "confidence": "Low",
+      "grade": "B",
+      "confidence": "Medium",
       "entry": null,
       "stop": null,
       "target": null,
       "entry_display": "—",
       "stop_display": "—",
       "target_display": "—",
-      "reason": "Mixed confirmation\nSetup not fully aligned",
+      "reason": "Trend continuation\nPullback not yet confirming",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "sector": "Banking",
+      "grade": "B",
+      "confidence": "Medium",
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "entry_display": "—",
+      "stop_display": "—",
+      "target_display": "—",
+      "reason": "Trend continuation\nPullback not yet confirming",
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
@@ -51,11 +68,11 @@
       "entry_display": "—",
       "stop_display": "—",
       "target_display": "—",
-      "reason": "Healthy structure\nMomentum not yet confirming",
-      "outcome_status": "closed",
-      "outcome_label": "Sold (lifecycle)",
-      "outcome_return_pct": -2.99079754601227,
-      "outcome_exit_date": "2026-09-11"
+      "reason": "Trend continuation\nPullback not yet confirming",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
     },
     {
       "symbol": "DLF",
@@ -75,21 +92,21 @@
       "outcome_exit_date": null
     },
     {
-      "symbol": "KOTAKBANK",
-      "sector": "Banking",
-      "grade": "B",
-      "confidence": "Medium",
+      "symbol": "TECHM",
+      "sector": "IT",
+      "grade": "C",
+      "confidence": "Low",
       "entry": null,
       "stop": null,
       "target": null,
       "entry_display": "—",
       "stop_display": "—",
       "target_display": "—",
-      "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "closed",
-      "outcome_label": "Sold (lifecycle)",
-      "outcome_return_pct": 0.5881676338564398,
-      "outcome_exit_date": "2026-09-11"
+      "reason": "Mixed confirmation\nSetup not fully aligned",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
     }
   ],
   "rejections": [
@@ -104,7 +121,7 @@
     "open": 0,
     "target": 0,
     "stop": 0,
-    "other_closed": 2,
-    "untracked": 3
+    "other_closed": 0,
+    "untracked": 6
   }
 }
