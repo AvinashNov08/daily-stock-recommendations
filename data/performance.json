@@ -2,10 +2,10 @@
   "product": "Daily Recommendation Center",
   "as_of_date": "2026-09-16",
   "summary": {
-    "recommendations": 159,
+    "recommendations": 160,
     "wins": 25,
     "losses": 42,
-    "still_open": 4,
+    "still_open": 5,
     "hit_rate": 0.3731,
     "average_return": -0.3777,
     "untracked": 86
@@ -43,8 +43,8 @@
     },
     {
       "as_of_date": "2026-09-16",
-      "symbol": "JSWSTEEL",
-      "sector": "Metal",
+      "symbol": "DLF",
+      "sector": "Realty",
       "grade": "C",
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
@@ -53,9 +53,19 @@
     },
     {
       "as_of_date": "2026-09-16",
+      "symbol": "JSWSTEEL",
+      "sector": "Metal",
+      "grade": "C",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-09-16",
       "symbol": "TECHM",
       "sector": "IT",
-      "grade": "C",
+      "grade": "B",
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
@@ -66,9 +76,9 @@
       "symbol": "AUROPHARMA",
       "sector": "Pharma",
       "grade": "C",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -76,9 +86,9 @@
       "symbol": "KOTAKBANK",
       "sector": "Banking",
       "grade": "B",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -86,9 +96,9 @@
       "symbol": "BAJAJ-AUTO",
       "sector": "Auto",
       "grade": "C",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
@@ -96,9 +106,9 @@
       "symbol": "TECHM",
       "sector": "IT",
       "grade": "B",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
+      "outcome_status": "open",
+      "outcome_label": "Open",
+      "outcome_return_pct": 0.0,
       "outcome_exit_date": null
     },
     {
