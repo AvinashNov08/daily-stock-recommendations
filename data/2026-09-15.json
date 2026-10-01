@@ -18,10 +18,10 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 2.8606208155812536,
+      "outcome_exit_date": "2026-09-17"
     },
     {
       "symbol": "KOTAKBANK",
@@ -52,10 +52,10 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -0.8022082291037695,
+      "outcome_exit_date": "2026-09-17"
     },
     {
       "symbol": "TECHM",
@@ -69,10 +69,10 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.19255455712451863,
+      "outcome_exit_date": "2026-09-17"
     }
   ],
   "rejections": [
@@ -82,12 +82,12 @@
       "reason": "Trend check failed\nNo structural foundation"
     }
   ],
-  "outcomes_as_of": "2026-09-17",
+  "outcomes_as_of": "2026-10-01",
   "outcome_counts": {
     "open": 0,
     "target": 0,
     "stop": 0,
-    "other_closed": 1,
-    "untracked": 3
+    "other_closed": 4,
+    "untracked": 0
   }
 }

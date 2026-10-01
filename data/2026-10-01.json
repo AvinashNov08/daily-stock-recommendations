@@ -21,11 +21,7 @@
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1676.800048828125,
-      "last_close_date": "2026-10-01",
-      "last_close_display": "₹1,676.80",
-      "yahoo_ticker": "AUROPHARMA.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "KOTAKBANK",
@@ -42,11 +38,7 @@
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 418.3500061035156,
-      "last_close_date": "2026-10-01",
-      "last_close_display": "₹418.35",
-      "yahoo_ticker": "KOTAKBANK.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "PHOENIXLTD",
@@ -63,11 +55,7 @@
       "outcome_status": "pending_entry",
       "outcome_label": "Pending entry",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1930.0,
-      "last_close_date": "2026-10-01",
-      "last_close_display": "₹1,930.00",
-      "yahoo_ticker": "PHOENIXLTD.NS"
+      "outcome_exit_date": null
     }
   ],
   "rejections": [
@@ -84,7 +72,5 @@
     "stop": 0,
     "other_closed": 0,
     "untracked": 0
-  },
-  "product": "Daily Recommendation Center",
-  "human_date": "October 1, 2026"
+  }
 }

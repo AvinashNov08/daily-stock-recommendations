@@ -52,10 +52,10 @@
       "stop_display": "₹404.74",
       "target_display": "₹435.51",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -0.9603841536614646,
+      "outcome_exit_date": "2026-09-18"
     },
     {
       "symbol": "DLF",
@@ -69,10 +69,10 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 0.6796836853027344,
+      "outcome_exit_date": "2026-09-18"
     },
     {
       "symbol": "JSWSTEEL",
@@ -86,10 +86,10 @@
       "stop_display": "₹1,227.00",
       "target_display": "₹1,292.70",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "pending_entry",
-      "outcome_label": "Pending entry",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 1.2126975327753524,
+      "outcome_exit_date": "2026-09-21"
     },
     {
       "symbol": "TECHM",
@@ -116,12 +116,12 @@
       "reason": "Trend check failed\nNo structural foundation"
     }
   ],
-  "outcomes_as_of": "2026-09-17",
+  "outcomes_as_of": "2026-10-01",
   "outcome_counts": {
-    "open": 3,
+    "open": 0,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
+    "other_closed": 3,
     "untracked": 3
   }
 }

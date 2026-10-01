@@ -18,10 +18,10 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -0.7820721502933883,
+      "outcome_exit_date": "2026-09-22"
     },
     {
       "symbol": "KOTAKBANK",
@@ -35,10 +35,10 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -0.5183206267492749,
+      "outcome_exit_date": "2026-09-22"
     },
     {
       "symbol": "BAJAJ-AUTO",
@@ -52,10 +52,10 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -0.8464223385689353,
+      "outcome_exit_date": "2026-09-22"
     },
     {
       "symbol": "JSWSTEEL",
@@ -86,10 +86,10 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 1.4009844755774328,
+      "outcome_exit_date": "2026-09-22"
     },
     {
       "symbol": "TECHM",
@@ -103,10 +103,10 @@
       "stop_display": "—",
       "target_display": "—",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -0.4427349640078601,
+      "outcome_exit_date": "2026-09-22"
     }
   ],
   "rejections": [
@@ -116,12 +116,12 @@
       "reason": "Trend check failed\nNo structural foundation"
     }
   ],
-  "outcomes_as_of": "2026-09-17",
+  "outcomes_as_of": "2026-10-01",
   "outcome_counts": {
     "open": 0,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
-    "untracked": 6
+    "other_closed": 5,
+    "untracked": 1
   }
 }
