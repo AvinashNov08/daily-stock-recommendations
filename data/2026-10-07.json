@@ -21,11 +21,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 440.0,
-      "last_close_date": "2026-10-07",
-      "last_close_display": "₹440.00",
-      "yahoo_ticker": "KOTAKBANK.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "AUROPHARMA",
@@ -42,11 +38,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 1682.0,
-      "last_close_date": "2026-10-07",
-      "last_close_display": "₹1,682.00",
-      "yahoo_ticker": "AUROPHARMA.NS"
+      "outcome_exit_date": null
     },
     {
       "symbol": "DLF",
@@ -63,11 +55,7 @@
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 656.0,
-      "last_close_date": "2026-10-07",
-      "last_close_display": "₹656.00",
-      "yahoo_ticker": "DLF.NS"
+      "outcome_exit_date": null
     }
   ],
   "rejections": [],
@@ -78,7 +66,5 @@
     "stop": 0,
     "other_closed": 0,
     "untracked": 3
-  },
-  "product": "Daily Recommendation Center",
-  "human_date": "October 7, 2026"
+  }
 }

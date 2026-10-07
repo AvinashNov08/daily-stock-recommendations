@@ -1,16 +1,46 @@
 {
   "product": "Daily Recommendation Center",
-  "as_of_date": "2026-10-05",
+  "as_of_date": "2026-10-07",
   "summary": {
-    "recommendations": 172,
+    "recommendations": 175,
     "wins": 31,
     "losses": 48,
     "still_open": 3,
     "hit_rate": 0.3924,
     "average_return": -0.2927,
-    "untracked": 88
+    "untracked": 91
   },
   "rows": [
+    {
+      "as_of_date": "2026-10-07",
+      "symbol": "KOTAKBANK",
+      "sector": "Banking",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-10-07",
+      "symbol": "AUROPHARMA",
+      "sector": "Pharma",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-10-07",
+      "symbol": "DLF",
+      "sector": "Realty",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
     {
       "as_of_date": "2026-10-05",
       "symbol": "AUROPHARMA",
