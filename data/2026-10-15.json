@@ -1,0 +1,81 @@
+{
+  "as_of_date": "2026-10-15",
+  "market_regime": "BEAR",
+  "candidates_scanned": 5,
+  "recommended_count": 3,
+  "rejected_count": 2,
+  "generated_at_label": "2026-10-15 19:47 IST",
+  "recommendations": [
+    {
+      "symbol": "AUROPHARMA",
+      "sector": "Pharma",
+      "grade": "B",
+      "confidence": "Medium",
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "entry_display": "—",
+      "stop_display": "—",
+      "target_display": "—",
+      "reason": "Healthy structure\nMomentum not yet confirming",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "symbol": "DLF",
+      "sector": "Realty",
+      "grade": "C",
+      "confidence": "Low",
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "entry_display": "—",
+      "stop_display": "—",
+      "target_display": "—",
+      "reason": "Mixed confirmation\nSetup not fully aligned",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "sector": "Banking",
+      "grade": "B",
+      "confidence": "Medium",
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "entry_display": "—",
+      "stop_display": "—",
+      "target_display": "—",
+      "reason": "Trend continuation\nPullback not yet confirming",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    }
+  ],
+  "rejections": [
+    {
+      "symbol": "TECHM",
+      "sector": "IT",
+      "reason": "Trend check failed\nNo structural foundation"
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "sector": "Auto",
+      "reason": "Trend check failed\nNo structural foundation"
+    }
+  ],
+  "outcomes_as_of": "2026-10-05",
+  "outcome_counts": {
+    "open": 0,
+    "target": 0,
+    "stop": 0,
+    "other_closed": 0,
+    "untracked": 3
+  }
+}

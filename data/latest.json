@@ -1,51 +1,30 @@
 {
-  "as_of_date": "2026-10-07",
+  "as_of_date": "2026-10-15",
   "market_regime": "BEAR",
-  "candidates_scanned": 3,
+  "candidates_scanned": 5,
   "recommended_count": 3,
-  "rejected_count": 0,
-  "generated_at_label": "2026-10-07 19:31 IST",
+  "rejected_count": 2,
+  "generated_at_label": "2026-10-15 19:47 IST",
   "recommendations": [
-    {
-      "symbol": "KOTAKBANK",
-      "sector": "Banking",
-      "grade": "C",
-      "confidence": "Low",
-      "entry": null,
-      "stop": null,
-      "target": null,
-      "entry_display": "—",
-      "stop_display": "—",
-      "target_display": "—",
-      "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "untracked",
-      "outcome_label": "Untracked",
-      "outcome_return_pct": null,
-      "outcome_exit_date": null,
-      "last_close": 440.0,
-      "last_close_date": "2026-10-07",
-      "last_close_display": "₹440.00",
-      "yahoo_ticker": "KOTAKBANK.NS"
-    },
     {
       "symbol": "AUROPHARMA",
       "sector": "Pharma",
-      "grade": "C",
-      "confidence": "Low",
+      "grade": "B",
+      "confidence": "Medium",
       "entry": null,
       "stop": null,
       "target": null,
       "entry_display": "—",
       "stop_display": "—",
       "target_display": "—",
-      "reason": "Mixed confirmation\nSetup not fully aligned",
+      "reason": "Healthy structure\nMomentum not yet confirming",
       "outcome_status": "untracked",
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
       "outcome_exit_date": null,
-      "last_close": 1682.0,
-      "last_close_date": "2026-10-07",
-      "last_close_display": "₹1,682.00",
+      "last_close": 1677.9000244140625,
+      "last_close_date": "2026-10-15",
+      "last_close_display": "₹1,677.90",
       "yahoo_ticker": "AUROPHARMA.NS"
     },
     {
@@ -64,13 +43,45 @@
       "outcome_label": "Untracked",
       "outcome_return_pct": null,
       "outcome_exit_date": null,
-      "last_close": 656.0,
-      "last_close_date": "2026-10-07",
-      "last_close_display": "₹656.00",
+      "last_close": 670.5,
+      "last_close_date": "2026-10-15",
+      "last_close_display": "₹670.50",
       "yahoo_ticker": "DLF.NS"
+    },
+    {
+      "symbol": "KOTAKBANK",
+      "sector": "Banking",
+      "grade": "B",
+      "confidence": "Medium",
+      "entry": null,
+      "stop": null,
+      "target": null,
+      "entry_display": "—",
+      "stop_display": "—",
+      "target_display": "—",
+      "reason": "Trend continuation\nPullback not yet confirming",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null,
+      "last_close": 447.9500122070313,
+      "last_close_date": "2026-10-15",
+      "last_close_display": "₹447.95",
+      "yahoo_ticker": "KOTAKBANK.NS"
     }
   ],
-  "rejections": [],
+  "rejections": [
+    {
+      "symbol": "TECHM",
+      "sector": "IT",
+      "reason": "Trend check failed\nNo structural foundation"
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "sector": "Auto",
+      "reason": "Trend check failed\nNo structural foundation"
+    }
+  ],
   "outcomes_as_of": "2026-10-05",
   "outcome_counts": {
     "open": 0,
@@ -80,5 +91,5 @@
     "untracked": 3
   },
   "product": "Daily Recommendation Center",
-  "human_date": "October 7, 2026"
+  "human_date": "October 15, 2026"
 }
