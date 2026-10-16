@@ -1,0 +1,81 @@
+{
+  "as_of_date": "2026-10-16",
+  "market_regime": "BEAR",
+  "candidates_scanned": 5,
+  "recommended_count": 3,
+  "rejected_count": 2,
+  "generated_at_label": "2026-10-16 19:14 IST",
+  "recommendations": [
+    {
+      "symbol": "DLF",
+      "sector": "Realty",
+      "grade": "C",
+      "confidence": "Low",
+      "entry": 675.0,
+      "stop": 650.3991221076456,
+      "target": 724.2017557847089,
+      "entry_display": "₹675.00",
+      "stop_display": "₹650.40",
+      "target_display": "₹724.20",
+      "reason": "Mixed confirmation\nSetup not fully aligned",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "symbol": "TECHM",
+      "sector": "IT",
+      "grade": "C",
+      "confidence": "Low",
+      "entry": 1790.0,
+      "stop": 1711.18440607248,
+      "target": 1947.63118785504,
+      "entry_display": "₹1,790.00",
+      "stop_display": "₹1,711.18",
+      "target_display": "₹1,947.63",
+      "reason": "Mixed confirmation\nSetup not fully aligned",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "symbol": "AUROPHARMA",
+      "sector": "Pharma",
+      "grade": "B",
+      "confidence": "Medium",
+      "entry": 1666.9000244140625,
+      "stop": 1633.0,
+      "target": 1734.7000732421875,
+      "entry_display": "₹1,666.90",
+      "stop_display": "₹1,633.00",
+      "target_display": "₹1,734.70",
+      "reason": "Healthy structure\nMomentum not yet confirming",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    }
+  ],
+  "rejections": [
+    {
+      "symbol": "ICICIBANK",
+      "sector": "Banking",
+      "reason": "Trend check failed\nNo structural foundation"
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "sector": "Auto",
+      "reason": "Trend check failed\nNo structural foundation"
+    }
+  ],
+  "outcomes_as_of": "2026-10-16",
+  "outcome_counts": {
+    "open": 1,
+    "target": 0,
+    "stop": 0,
+    "other_closed": 0,
+    "untracked": 2
+  }
+}

@@ -1,17 +1,47 @@
 {
   "product": "Daily Recommendation Center",
-  "as_of_date": "2026-10-15",
+  "as_of_date": "2026-10-16",
   "summary": {
-    "recommendations": 178,
-    "wins": 31,
-    "losses": 48,
-    "still_open": 3,
-    "hit_rate": 0.3924,
-    "average_return": -0.2927,
-    "untracked": 94
+    "recommendations": 181,
+    "wins": 32,
+    "losses": 50,
+    "still_open": 1,
+    "hit_rate": 0.3902,
+    "average_return": -0.2896,
+    "untracked": 96
   },
   "rows": [
     {
+      "as_of_date": "2026-10-16",
+      "symbol": "DLF",
+      "sector": "Realty",
+      "grade": "C",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-10-16",
+      "symbol": "TECHM",
+      "sector": "IT",
+      "grade": "C",
+      "outcome_status": "pending_entry",
+      "outcome_label": "Pending entry",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
+      "as_of_date": "2026-10-16",
+      "symbol": "AUROPHARMA",
+      "sector": "Pharma",
+      "grade": "B",
+      "outcome_status": "untracked",
+      "outcome_label": "Untracked",
+      "outcome_return_pct": null,
+      "outcome_exit_date": null
+    },
+    {
       "as_of_date": "2026-10-15",
       "symbol": "AUROPHARMA",
       "sector": "Pharma",
@@ -106,30 +136,30 @@
       "symbol": "AUROPHARMA",
       "sector": "Pharma",
       "grade": "B",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -1.7851826364694547,
+      "outcome_exit_date": "2026-10-08"
     },
     {
       "as_of_date": "2026-10-01",
       "symbol": "KOTAKBANK",
       "sector": "Banking",
       "grade": "C",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 3.822113917424129,
+      "outcome_exit_date": "2026-10-06"
     },
     {
       "as_of_date": "2026-10-01",
       "symbol": "PHOENIXLTD",
       "sector": "Realty",
       "grade": "B",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -2.6614987080103356,
+      "outcome_exit_date": "2026-10-06"
     },
     {
       "as_of_date": "2026-09-18",

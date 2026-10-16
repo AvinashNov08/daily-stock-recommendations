@@ -18,10 +18,10 @@
       "stop_display": "₹1,622.60",
       "target_display": "₹1,785.20",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -1.7851826364694547,
+      "outcome_exit_date": "2026-10-08"
     },
     {
       "symbol": "KOTAKBANK",
@@ -35,10 +35,10 @@
       "stop_display": "₹405.15",
       "target_display": "₹444.75",
       "reason": "Mixed confirmation\nSetup not fully aligned",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": 3.822113917424129,
+      "outcome_exit_date": "2026-10-06"
     },
     {
       "symbol": "PHOENIXLTD",
@@ -52,10 +52,10 @@
       "stop_display": "₹1,856.70",
       "target_display": "₹2,076.60",
       "reason": "Trend continuation\nPullback not yet confirming",
-      "outcome_status": "open",
-      "outcome_label": "Open",
-      "outcome_return_pct": 0.0,
-      "outcome_exit_date": null
+      "outcome_status": "closed",
+      "outcome_label": "Sold (lifecycle)",
+      "outcome_return_pct": -2.6614987080103356,
+      "outcome_exit_date": "2026-10-06"
     }
   ],
   "rejections": [
@@ -65,12 +65,12 @@
       "reason": "Trend check failed\nNo structural foundation"
     }
   ],
-  "outcomes_as_of": "2026-10-05",
+  "outcomes_as_of": "2026-10-16",
   "outcome_counts": {
-    "open": 3,
+    "open": 0,
     "target": 0,
     "stop": 0,
-    "other_closed": 0,
+    "other_closed": 3,
     "untracked": 0
   }
 }
